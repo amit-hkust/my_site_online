@@ -1,0 +1,107 @@
+baseURL = "http://amitkmr.com/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Personal Website"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+googleAnalytics = "UA-188161444-1"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[params]
+#googleAnalytics = "UA-188161444-1"
+googleMeasurementID = "G-MCH569NNFG"
+title = "Amit Kumar"
+author = "Amit Kumar"
+#copyright = "2020-2021"
+bold_start1 = ""
+description1 = "Room 5067. Lee Shau Kee Building. HKUST."
+bold_start2 = ""
+description2 = "Clear Water Bay. Hong Kong SAR."
+bold_start3 = "Email: "
+description3 = "akumarac@connect.ust.hk"
+profilePicture = "images/1.jpg"
+keywords = "Amit Kumar HKUST, Amit Kumar Finance"
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = []
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+# indexDateFormat = "Mon, Jan 2, 2006"
+# listDateFormat = "Jan 2"
+# singleDateFormat = "Mon, Jan 2, 2006"
+
+
+disableThemeSwitcher = true
+
+[params.simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/amit-kumar-phd-finance/"
+
+#[[params.socialIcons]]
+#icon = "fab fa-instagram"
+#title = "SSRN"
+#url = "www.ssrn.com/author=2664500"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:akumarac@connect.ust.hk"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+   [[menu.main]]
+  name = "Download CV"
+  weight = 200
+  identifier = "3"
+  url = "AMIT_Kumar_CV.pdf"
+
+  [[menu.main]]
+  name = "Visit SSRN Page"
+  weight = 200
+  identifier = "4"
+  url = "https://www.ssrn.com/author=2664500"
