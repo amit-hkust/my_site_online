@@ -16,7 +16,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-googleAnalytics = "UA-188161444-1"
+#googleAnalytics = "UA-188161444-1"
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [params]
 #googleAnalytics = "UA-188161444-1"
-googleMeasurementID = "G-MCH569NNFG"
+#googleMeasurementID = "G-MCH569NNFG"
 title = "Amit Kumar"
 author = "Amit Kumar"
 #copyright = "2020-2021"
