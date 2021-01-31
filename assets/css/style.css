@@ -378,7 +378,7 @@ a:active {
    text-justify: inter-word;
 }
 
-.sidebar .logo-title .title a {
+.sidebar .logo-title .title a{
     text-decoration: underline;
     color: var(--heading-color);
     font-size: 1.2rem;
