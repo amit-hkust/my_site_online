@@ -953,7 +953,7 @@ print {
     }
 
     .sidebar .logo-title {
-        padding-top: 120px;
+        padding-top: 30px;
     }
 
     .sidebar .logo-title .title img {
@@ -973,7 +973,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*711/496) + 10px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        margin-top: calc((100vw*711/496) + 2rem); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: relative;
