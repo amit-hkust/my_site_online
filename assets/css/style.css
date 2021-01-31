@@ -973,10 +973,10 @@ print {
     }
 
     .content {
-        margin-top: 420px;
+        margin-top: 10px; /*tricky -> this decides where content begins*/
         width: 100%;
         z-index: 2;
-        position: absolute;
+        position: relative;
     }
 
     .footer {
