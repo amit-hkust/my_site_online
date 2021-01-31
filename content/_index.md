@@ -2,20 +2,21 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting. 
-Before joining PhD, I gained exposure in multiple industries, including as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a prject finance manager involved in debt syndication for infrastructure projects at the second largest Indian bank. 
+I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting.
+
+Before joining PhD, I worked in a few industries, including as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a prject finance manager involved in debt syndication for infrastructure projects at the second largest Indian bank. 
 
 &nbsp;
 
 ## Research Interests
-Household Finance, Municipal Finance, Banking.
+Household Finance, Municipal Finance, and Banking.
 
 &nbsp;
 
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
 [comment]: <> (&nbsp;)
 ***
-
+   
 ## Working Papers
 
 
