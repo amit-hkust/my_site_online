@@ -16,8 +16,7 @@
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
-    overflow-x: hidden;
-}
+    }
 
 html[data-theme='dark'] {
     --bg-color: #292a2d;
