@@ -975,7 +975,11 @@ print {
     }
 
     .content {
+<<<<<<< HEAD
         margin-top: calc((100vw*711/496) + 4rem +10px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+=======
+        margin-top: calc((100vw*711/496) + 2rem); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+>>>>>>> parent of f59060f... Update style.css
         width: 100%;
         z-index: 2;
         position: relative;
