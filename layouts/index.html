@@ -6,8 +6,10 @@
             -- as declared in content/_index.md
 
             One can set `mainSections = [""]` and have the content/_index.md specified here
+            
         -->
-        {{ .Content }}
+        <a href="{{ .Site.Params.url_cv }}" class="btn" target="_blank"> Download CV</a> &emsp; &emsp; <a href="{{ .Site.Params.url_ssrn }}" class="btn" target="_blank">Visit SSRN</a>
+        {{ .Content }} 
     </div>
 
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
