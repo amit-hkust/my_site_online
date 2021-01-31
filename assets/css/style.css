@@ -16,6 +16,7 @@
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
+    overflow-x: hidden;
     }
 
 html[data-theme='dark'] {
@@ -32,6 +33,7 @@ html[data-theme='dark'] {
     --tag-color: rgb(191, 191, 191);
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
+    
 }
 
 html {
@@ -248,7 +250,7 @@ a:active {
     float: right;
     width: 100%;
     margin-top: 30px;
-}
+    }
 
 .page-top {
     width: 75%; /*controls top navigation bar width. Match with media*/
