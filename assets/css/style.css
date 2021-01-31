@@ -44,17 +44,25 @@ body {
     font-family: Georgia, Times, "Times New Roman"; /*Amit modified here*/
     font-size: 16px;
     width: 100%;
-    margin: 0 auto 30px auto;
     background-color: var(--bg-color);
 }
 
 p {
     line-height: 1.6em; /*controls line spacing of br ans all lines in <p>*/
-    font-weight: 500;
-    font-size: 18px; /*Amit modified here*/
+    font-size: 16px; /*Amit modified here*/
     margin-top: 5px;
     margin-bottom: 10px;
     color: #424141;
+    font-weight:500;
+    
+}
+
+.conference { /*Conference Class. Amit modified here*/
+    line-height: 17px; /*controls line spacing of br ans all lines in <p>*/
+    font-size: 15px; 
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #5d5c5c;
     
 }
 
@@ -66,37 +74,46 @@ a { /*This controls all link attributes.*/
     color:#b41e07;
 }
 
-h2 { /*This is deep blue main titles */
+h2 { /*This is deep blue headings */
     color:#02699A;
     font-variant: small-caps;
     font-size:1.2rem;
-}
+} 
 
 h3 { /*Setting for PAPER TITLES */
     color:#524f4f;
     font-size:1.1rem;
     margin-bottom: 0.2rem;
+    margin-left: 0rem;
+    padding-left: 0rem;
 }
 
-h6 { /* for conferences */
-    font-size:14px;
-}
-
-ul { /* Font control for nordered list e.g. conferences */
+ul { /* Font control for unordered list e.g. conferences */
     color:#494747;
-    font-size:0.9rem;
+    font-size:14px;
     line-height: 1.4rem;
     margin-bottom: 1rem;
     margin-top: -0.5rem;
     padding-top: 0rem;
+    padding-left:5px;
     }
+
+ol { /* Font control for ordered list e.g. conferences */
+    color:#494747;
+    font-size:14px;
+    line-height: 1.4rem;
+    margin-bottom: 1rem;
+    margin-top: -0.5rem;
+    margin-left: 0.1rem;
+    padding-top: 0rem;
+    padding-left:0px;
+}
 
 .autopagerize_page_element { /*Everything in Main content beneath top bar*/
     padding-top:0px;
     font-weight: 500;
-    padding-left:50px;
+    padding-left:1px;
     line-height: 1.5em; /*controls line spacing of br ans all lines in <p>*/
-    padding-left:10px;
 }
 
 .autopagerize_page_element .a { 
@@ -229,21 +246,21 @@ a:active {
 .content {
     height: auto;
     float: right;
-    width: 80%;
-    margin-top: 60px;
+    width: 100%;
+    margin-top: 30px;
 }
 
 .page-top {
-    width: 70%;
+    width: 75%; /*controls top navigation bar width. Match with media*/
     position: fixed;
     right: 0;
     z-index: 3;
     background-color: var(--bg-color);
     height: 40px;
     border-bottom: 1px solid var(--border-color);
-    padding-top: 1rem;
+    padding-top: 0.8rem;
     top:0; /*Amit mdified -> This ensures that Scrolling of content behind top bar stays hidden behind top bar */
-}
+    }
 
 .page-top .nav {
     list-style: none;
@@ -321,52 +338,56 @@ a:active {
     display: flex;
     flex-direction: column;
     min-height: 100%;
+    padding-left: 1px;
+    margin-left: 1px;
 }
 
 .sidebar .logo-title {
     text-align: center;
-    padding-top: 100px;
+    margin-bottom: 0px;
     flex: 1;
     font-size: 2rem;
     text-justify: inter-word;
-     }
+    width:100%;
+    display: inline-block;
+    vertical-align: top;
+    position:relative;
+    object-fit: contain;
+    }
 
 .sidebar .logo-title .description {
-    font-size: 2rem;
     font-weight: normal;
     text-justify: inter-word;
-}
-
-.sidebar .logo-title .logo {
-    margin: 0 auto;
+    vertical-align: bottom;
 }
 
 .sidebar .logo-title .title img {
-    width: 270px; /*Amit modified here*/
-    max-width: 100%; /*Amit modified here*/
-    height: auto; /*Amit modified here*/
-    position: relative; /*Amit modified here*/
-   /* border-radius: 50%; */ /* Removed original circular crop*//*Amit modified here*/
-   }
+    max-width:85%;
+    vertical-align:top;
+} 
 
-.sidebar .logo-title .title h2 { /*This is "Title just below picture"*/
+.sidebar .logo-title .title h2 { /*This is "Title" just above the picture"*/
     /*text-transform: uppercase;*/ /*Amit modified here*/
     font-size: 1.8rem;
     font-weight: bold;
     /*letter-spacing: 2px;*/
     line-height: 1em;
    /* margin: 1em;*/
-   margin-top: 10px;
-   margin-bottom: 30px;
+   margin-top: 5px;
+   margin-bottom: 10px;
    text-justify: inter-word;
 }
 
-
 .sidebar .logo-title .title a {
-    text-decoration: none;
+    text-decoration: underline;
     color: var(--heading-color);
-    font-size: 2rem;
-  /*  font-weight: bold; */
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+.sidebar .logo-title .title p {
+    font-size: 1rem;
+    line-height: 1.2rem;
 }
 
 .sidebar .social-links {
@@ -640,7 +661,7 @@ a:active {
 
 .list-with-title {
     font-size: 14px;
-    margin: 30px;
+    margin: 3px;
     padding: 0;
 }
 
@@ -738,7 +759,7 @@ a:active {
 
 /* about */
 .about {
-    margin: 30px;
+    margin: 3px;
 }
 
 .about h3 {
@@ -789,25 +810,30 @@ a:active {
 
 /* Buttons */
 a.btn {
-    color: #868686;
-    font-weight: 400;
+    outline:0;
 }
 
 .btn {
     display: inline-block;
     position: relative;
     outline: 0;
-    color: var(--post-color);
-    background: transparent;
-    font-size: 14px;
+    color: #ffffff;
+    font-size: 16px;
+    font-stretch: ultra-expanded;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
     border: 1px solid var(--border-color);
+    background-color: #02699A; 
     white-space: nowrap;
-    font-weight: 400;
     font-style: normal;
-    border-radius: 999em;
+    font-weight: bold;
+    padding: 12px 20px; /*height, width*/
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:5px;
+    margin-bottom:10px;
 }
 
 .btn:hover {
@@ -825,6 +851,7 @@ a.btn {
     font-weight: 400;
     font-style: normal;
     border-radius: 999em;
+    font-weight: bold;
 }
 
 [role="back"] {
@@ -1079,12 +1106,12 @@ print {
 
 @media (min-width: 721px){ /*modifies width of two columns for laptop displays */
     .content {
-        padding-right: 5%;
-        width: 65%;
+        padding-right: 1%;
+        width: 74%;
     }
     .sidebar {
-        padding-left: 5%;
-        width: 25%;
+        padding-left: 1%;
+        width: 24%;
     }
 }
 
