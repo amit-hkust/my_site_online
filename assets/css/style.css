@@ -359,6 +359,8 @@ a:active {
     font-weight: normal;
     text-justify: inter-word;
     vertical-align: bottom;
+    font-size:1rem;
+    line-height: 1.1rem;
 }
 
 .sidebar .logo-title .title img {
@@ -380,8 +382,8 @@ a:active {
 
 .sidebar .logo-title .title a{
     text-decoration: underline;
-    color: var(--heading-color);
-    font-size: 1.2rem;
+    color:#b41e07;
+    font-size: 1rem;
     font-weight: normal;
 }
 
@@ -941,7 +943,7 @@ a.btn {
     display: none;
 }
 
-@media screen and (max-width: 960px),
+@media screen and (max-width: 720px),
 print {
     .sidebar {
         width: 100%;
@@ -955,7 +957,7 @@ print {
     }
 
     .sidebar .logo-title .title img {
-        width: 100px;
+        width: 100%;
     }
 
     .sidebar .logo-title .title h3 {
@@ -1098,7 +1100,7 @@ print {
     will-change: transform;
 }
 
-@media print {
+@media print { /* for printing*/
 	.page-top {
 		display: none;
 	}
