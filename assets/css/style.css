@@ -359,10 +359,9 @@ a:active {
 .sidebar .logo-title .description {
     font-weight: normal;
     text-justify: inter-word;
-    vertical-align: bottom;
     font-size:1rem;
     line-height: 1.1rem;
-    max-width: 80%;
+    max-width: 78%;
     margin: 0 auto;
     margin-top: 10px;
 }
