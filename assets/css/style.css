@@ -977,7 +977,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*711/496) + 4rem + 10px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        margin-top: calc((100vw*800/613) + 4rem + 10px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: absolute;
