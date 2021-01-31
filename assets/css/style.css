@@ -16,6 +16,7 @@
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
+    overflow-x: hidden;
 }
 
 html[data-theme='dark'] {
@@ -361,6 +362,9 @@ a:active {
     vertical-align: bottom;
     font-size:1rem;
     line-height: 1.1rem;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
 }
 
 .sidebar .logo-title .title img {
@@ -950,6 +954,7 @@ print {
         position: absolute;
         border-right: none;
         z-index: 1;
+        border-bottom: solid 1px var(--form-border-color); /*This adds a border on mobile screen, after sidebar ends*/
     }
 
     .sidebar .logo-title {
@@ -973,7 +978,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*711/496) + 4rem); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        margin-top: calc((100vw*711/496) + 4rem +15px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: relative;
