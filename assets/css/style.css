@@ -843,7 +843,7 @@ a.btn {
     white-space: nowrap;
     font-style: normal;
     font-weight: bold;
-    padding: 12px 20px; /*height, width*/
+    padding: 12px 20px; /*Button height, width*/
     margin-left: 10px;
     margin-right: 10px;
     margin-top:5px;
@@ -955,7 +955,7 @@ a.btn {
     display: none;
 }
 
-@media screen and (max-width: 720px),
+@media screen and (max-width: 640px), /*Switch to mobile view if width <=640px */
 print {
     .sidebar {
         width: 100%;
@@ -1066,6 +1066,18 @@ print {
     .theme-switch-item {
         float: none;
     }
+
+    a.btn { /*Responsive button. Amit*/ 
+        display:block;
+        margin:0.4em auto;
+    }
+    
+    .btn { /*Responsive button. Amit*/
+        display: block;
+        margin:0.4em auto;
+       
+    }
+        
 }
 
 /* Medium zoom */
