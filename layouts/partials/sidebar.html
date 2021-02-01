@@ -5,7 +5,7 @@
             <h2>{{ .Site.Params.Title }}</h2>
             <img src="{{ .Site.Params.profilePicture | absURL }}">
             <br>
-            <p class="description">{{ .Site.Params.description1}}<br>Email: <a href="mailto:{{.Site.Params.description2 }}">{{.Site.Params.description2 }}</a></p>
+            <div class="description">{{ .Site.Params.description1}}</div><div class="description no_overflow">Email: <a href="mailto:{{.Site.Params.description2 }}">{{.Site.Params.description2 }}</a></div>
         </div>
         
     </div>
