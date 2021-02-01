@@ -376,6 +376,10 @@ a:active {
     margin-top: 10px;
 }
 
+.sidebar .logo-title .description .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
+    overflow-wrap: anywhere;
+}
+
 .sidebar .logo-title .title img {
     max-width:85%;
     vertical-align:top;
