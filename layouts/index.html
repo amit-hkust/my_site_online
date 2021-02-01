@@ -12,7 +12,7 @@
         <br>
         {{ .Content }} 
     </div>
-    $('no_overflow').FluidFontType(); <!-- Amit adding javascript resizing for no_overflow -->
+    
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
     {{ range $paginator.Pages }}
 
