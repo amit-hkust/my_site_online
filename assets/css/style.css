@@ -379,7 +379,8 @@ a:active {
 .sidebar .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
     display: inline-block;
     overflow-wrap: break-all;
-    word-wrap: break-all;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .sidebar .logo-title .title img {
