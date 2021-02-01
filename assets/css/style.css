@@ -377,7 +377,8 @@ a:active {
 }
 
 .sidebar .description .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
-    overflow-wrap: break-word;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .sidebar .logo-title .title img {
@@ -1136,7 +1137,7 @@ print {
 	}
 }
 
-@media (min-width: 721px){ /*modifies width of two columns for laptop displays */
+@media (min-width: 641px){ /*For display>=641, modifies width of two columns for laptop displays */
     .content {
         padding-right: 1%;
         width: 74%;
