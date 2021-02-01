@@ -4,7 +4,7 @@ author = "Amit Kumar"
 ## About Me
 I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting.
 
-Before joining PhD, I worked in a few industries, including as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a prject finance manager involved in debt syndication for infrastructure projects at the second largest Indian bank. 
+Before joining PhD, I worked in India as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager, specialized in the power sector, at ICICI Bank. 
 
 &nbsp;
 
@@ -30,8 +30,9 @@ Household Finance, Municipal Finance, and Banking.
 ***
 &nbsp;
 
-2. ### Do Women Receive Worse Financial Advice [[Download]](files/women_financial_advice.pdf)
-   
+2. ### Do Women Receive Worse Financial Advice [[Download]](files/women_financial_advice.pdf)  
+   <span class="author">Joint with [Utpal Bhatacharya](http://ubhattac.people.ust.hk/), [Sujata Visaria](http://www.bm.ust.hk/econ/faculty-and-staff/directory/87), and [Jing Zhao](https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/)</span>
+
    <b>Abstract:</b> Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong that cater to retail investors. Each auditor was assigned to an “avatar” consisting of a specific combination of attributes. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook are especially likely to receive dominated advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination appears to be an unlikely explanation.
 
    <span class="conference">
