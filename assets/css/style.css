@@ -1069,15 +1069,17 @@ print {
 
     a.btn { /*Responsive button. Amit*/ 
         display:block;
-        margin:0.4em auto;
+        margin:1em auto;
     }
     
     .btn { /*Responsive button. Amit*/
         display: block;
-        margin:0.4em auto;
-       
+        margin:1em auto;
     }
-        
+    .btn:hover {
+        display: block;
+        margin:1em auto;
+    }    
 }
 
 /* Medium zoom */
