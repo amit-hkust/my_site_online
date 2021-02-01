@@ -369,21 +369,13 @@ a:active {
 .sidebar .logo-title .description {
     font-weight: normal;
     text-justify: inter-word;
-    font-size:1rem;
+    font-size:0.9rem;
     line-height: 1.1rem;
     max-width: 78%;
     margin: 0 auto;
     margin-top: 10px;
 }
 
-.no_overflow{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
-   /* display: inline-block;
-    overflow-wrap: break-all;
-    word-wrap: break-word;
-    word-break: break-all;
-    */
-    font-size:0.9rem;
-}
 
 .sidebar .logo-title .title img {
     max-width:85%;
