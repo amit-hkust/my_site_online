@@ -376,9 +376,9 @@ a:active {
     margin-top: 10px;
 }
 
-.sidebar .description .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
-  overflow-wrap: break-word;
-  word-wrap: break-word;
+.sidebar .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
+  overflow-wrap: break-all;
+  word-wrap: break-all;
 }
 
 .sidebar .logo-title .title img {
