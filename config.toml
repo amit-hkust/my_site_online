@@ -36,7 +36,7 @@ profilePicture = "images/1.jpg"
 url_cv = "files/Amit_CV.pdf"
 url_ssrn = "https://www.ssrn.com/author=2664500"
 keywords = "Amit Kumar HKUST, Amit Kumar Finance"
-favicon = "favicons/"
+favicon = "images/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
