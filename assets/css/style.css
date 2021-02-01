@@ -376,11 +376,12 @@ a:active {
     margin-top: 10px;
 }
 
-.sidebar .a{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
+.no_overflow{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
     display: inline-block;
     overflow-wrap: break-all;
     word-wrap: break-word;
     word-break: break-all;
+    font-size:0.9rem;
 }
 
 .sidebar .logo-title .title img {
@@ -406,10 +407,6 @@ a:active {
     font-weight: normal;
 }
 
-.sidebar .logo-title .title p {
-    font-size: 1rem;
-    line-height: 1.2rem;
-}
 
 .sidebar .social-links {
     list-style: none;
