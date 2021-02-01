@@ -377,10 +377,11 @@ a:active {
 }
 
 .no_overflow{ /*prevents email on sidebar from overflowing in right on ipad air. Amit */
-    display: inline-block;
+   /* display: inline-block;
     overflow-wrap: break-all;
     word-wrap: break-word;
     word-break: break-all;
+    */
     font-size:0.9rem;
 }
 
