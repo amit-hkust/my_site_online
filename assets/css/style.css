@@ -986,6 +986,10 @@ print {
         z-index: 1;
     }
 
+    .sidebar .logo-title .description .img{
+        width:auto
+    }
+    
     .sidebar .logo-title {
         padding-top: 30px;
     }
