@@ -84,6 +84,11 @@ a { /*This controls all link attributes.*/
     color:#b41e07;
 }
 
+h1 { /*This is deep blue headings */
+    color:#02699A;
+    font-variant: small-caps;
+    font-size:2rem;
+}
 
 h2 { /*This is deep blue headings */
     color:#02699A;
@@ -97,6 +102,13 @@ h3 { /*Setting for PAPER TITLES */
     margin-bottom: 0.2rem;
     margin-left: 0rem;
     padding-left: 0rem;
+}
+
+h4 { /*This is deep blue headings */
+    font-size:1rem;
+    font-weight: normal;
+    line-height: 0.9rem;
+    margin-top: -0.2rem;
 }
 
 ul { /* Font control for unordered list e.g. conferences */

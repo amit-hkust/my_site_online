@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Personal Website"
+title = "Amit Kumar"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -27,9 +27,10 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 #googleAnalytics = "UA-188161444-1"
 #googleMeasurementID = "G-MCH569NNFG"
-title = "Amit Kumar"
+display_title = "Amit Kumar"
+page_title = "Amit Kumar | PhD Fin. | HKUST"
 author = "Amit Kumar"
-#copyright = "2020-2021"
+copyright = ""
 description1 = "Room 5067. LSK, HKUST. Clear Water Bay. Hong Kong SAR."
 description2 = "amit.kumar@connect.ust.hk"
 profilePicture = "images/1.jpg"

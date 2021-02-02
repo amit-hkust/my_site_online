@@ -1,5 +1,5 @@
 <head>
-    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+    <title> {{.Site.Params.page_title}}</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -98,10 +98,12 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    gtag('config', 'G-MCH569NNFG');
+        gtag('config', 'G-MCH569NNFG');
     </script>
+
+    <meta name="description" content="Amit Kumar is a finance PhD student at HKUST."/>
  </head>

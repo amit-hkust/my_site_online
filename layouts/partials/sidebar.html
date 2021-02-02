@@ -2,10 +2,12 @@
     <div class="logo-title">
         <div class="title">
             <br>
-            <h2>{{ .Site.Params.Title }}</h2>
-            <img src="{{ .Site.Params.profilePicture | absURL }}">
+            <h1>{{ .Site.Params.display_title }}</h1>
+            <h4>PhD Candidate in Finance. HKUST</h4>
+            <img src="{{ .Site.Params.profilePicture | absURL }}" alt="Amit Kumar, PhD Finance, HKUST" title="Amit Kumar, PhD Finance, HKUST">
             <br>
-            <div class="description">{{ .Site.Params.description1}}</div><div class="description no_overflow">Email: <a href="mailto:{{.Site.Params.description2 }}">{{.Site.Params.description2 }}</a></div>
+            <div class="description">{{ .Site.Params.description1}}</div><div class="description">Email: <a href="mailto:{{.Site.Params.description2 }}">{{.Site.Params.description2 }}</a></div>
+            <br><img src="images/hkust.jpg" alt="Amit Kumar, PhD Finance, HKUST" width="50" height="50">
         </div>
         
     </div>
@@ -18,9 +20,7 @@
             </li>
         {{ end }}
     </ul>
-    {{/*
-    <div class="footer">
-        <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ if isset .Site.Params "copyright" }} {{ .Site.Params.copyright }} {{ else }} {{ now.Format "2006"}} {{end}}</div>
-    </div>
-    */}}
+    
+    
+    
     </div>
