@@ -986,11 +986,6 @@ print {
         z-index: 1;
     }
 
-    .sidebar .logo-title .description .img{
-        width:50px;
-        height:50px;
-    }
-
     .sidebar .logo-title {
         padding-top: 30px;
     }
@@ -999,6 +994,11 @@ print {
         width: 100%;
     }
 
+    .sidebar .logo-title .title .description img{
+        width:50px;
+        height:50px;
+    }
+    
     .sidebar .logo-title .title h3 {
         font-size: 20px;
     }
