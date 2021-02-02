@@ -403,6 +403,7 @@ a:active {
 .sidebar .logo-title .title img {
     max-width:85%;
     vertical-align:top;
+    margin-top:5px;
 } 
 
 .sidebar .logo-title .title h2 { /*This is "Title" just above the picture"*/
