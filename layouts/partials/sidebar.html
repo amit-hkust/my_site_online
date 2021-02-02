@@ -6,7 +6,13 @@
             <h4>{{ .Site.Params.sidebar_line1 }}</h4>
             <img src="{{ .Site.Params.profilePicture | absURL }}" alt="{{ .Site.Params.profilePicture_alt }}">
             <br>
-            <div class="description">{{ .Site.Params.sidebar_line2}}</div><div class="description">Email: <a href="mailto:{{.Site.Params.sidebar_line3 }}">{{.Site.Params.sidebar_line3 }}</a></div>
+            <div class="description">{{ .Site.Params.sidebar_line2}}</div>
+            <div class="description"> 
+                <a href="{{.Site.Params.ssrn_email}}" target="popup" 
+                onclick="window.open('{{.Site.Params.ssrn_email}}','popup','width=500,height=600'); return false;">
+                Email
+                </a> 
+            </div>
             <br><img src="images/hkust.jpg" alt="Amit Kumar, PhD Finance, HKUST" width="50" height="50">
         </div>
         
