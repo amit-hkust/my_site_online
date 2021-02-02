@@ -984,6 +984,7 @@ print {
         position: absolute;
         border-right: none;
         z-index: 1;
+        margin-bottom:100px;
     }
 
     .sidebar .logo-title {
@@ -1013,7 +1014,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*800/613) + 5.5rem + 50px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        /*margin-top: calc((100vw*800/613) + 5.5rem + 50px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: absolute;
