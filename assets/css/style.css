@@ -88,6 +88,7 @@ h1 { /*This is deep blue headings */
     color:#02699A;
     font-variant: small-caps;
     font-size:2rem;
+    margin-bottom: 0.1rem;
 }
 
 h2 { /*This is deep blue headings */
@@ -107,8 +108,8 @@ h3 { /*Setting for PAPER TITLES */
 h4 { /*H4 heading for text below name on sidebar */
     line-height: 1.6em; /*controls line spacing of br ans all lines in <p>*/
     font-size: 16px; /*Amit modified here*/
-    margin-top: -10px;
-    margin-bottom: 10px;
+    margin-bottom: 0.2rem;
+    margin-top:-0.3rem;
     color: #424141;
     font-weight:500;
 }
@@ -1006,7 +1007,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*800/613) + 5rem + 20px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        margin-top: calc((100vw*800/613) + 5.5rem + 50px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: absolute;
