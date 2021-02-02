@@ -1,11 +1,11 @@
 <head>
-    <title> {{.Site.Params.page_title}}</title>
+    <title> {{.Site.Params.html_title}}</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="description" content="{{ .Site.Params.meta_description }}">
     {{- if .Site.Params.googleSiteVerify }}
     <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
     {{- end -}}
@@ -105,5 +105,5 @@
         gtag('config', 'G-MCH569NNFG');
     </script>
 
-    <meta name="description" content="Amit Kumar is a finance PhD student at HKUST."/>
+    <meta name="description" content="{{ .Site.Params.meta_description}}"/>
  </head>

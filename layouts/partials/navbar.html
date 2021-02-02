@@ -5,10 +5,11 @@
         <span aria-hidden="true"></span>
     </a>
     <ul class="nav" id="navMenu">
+        <meta name="description" content="{{ .Site.Params.meta_description}}"/>
         {{ $url := .RelPermalink }}
         {{ range .Site.Menus.main }}
             {{ $active := eq $url .URL }}
-            <meta name="description" content="Amit Kumar is a finance PhD student at HKUST."/>
+            
             <li><a {{if $active }}class="current"{{end}}
                    href="{{ .URL }}"
                         {{ if strings.HasPrefix .URL "http" }}
