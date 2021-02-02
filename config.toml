@@ -92,6 +92,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
   identifier = "home"
   weight = 100
   url = "/"
+  title= "Amit Kumar, PhD Finance, HKUST" #title for menu items
 
   
   

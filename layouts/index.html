@@ -23,7 +23,7 @@
             {{ if .Params.thumbnail }}
             <div class="post-thumbnail">
                 <a href="{{ .RelPermalink }}">
-                <img src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image" loading="lazy">
+                <img src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image">
                 </a>
             </div>
             {{ end }}

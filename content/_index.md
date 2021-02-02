@@ -9,7 +9,7 @@ Before joining PhD, I worked in India as a VLSI engineer at Freescale Semiconduc
 &nbsp;
 
 ## Research Interests
-Household Finance, Municipal Finance, and Banking.
+##### Household Finance, Municipal Finance, and Banking.
 
 &nbsp;
 
