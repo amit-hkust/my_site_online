@@ -43,4 +43,8 @@ Before joining PhD, I worked in India as a VLSI engineer at Freescale Semiconduc
    Media Mention: [Bloomberg](https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong)
 ***
 
-
+## Research Grant
+### HKUST Office of the Vice President for Research and Development Grant 
+   How Does on-campus residence shapes students? An empirical investigation with lessons for programme design.  
+   Joint with Sujata Visaria and Kevin Tam.
+***
