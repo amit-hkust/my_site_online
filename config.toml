@@ -24,7 +24,26 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Taxonomies]
-    tag = "test"
+    
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+  title= "Amit Kumar, PhD Finance, HKUST" #title for menu items
+
+[sitemap]
+ changefreq = "weekly"
+ filename = "sitemap.xml"
+ priority = 1
+  
+
+[frontmatter]
+lastmod = [":fileModTime", ":default"] #This sets last modification date to modification date of content file.
 
 [params]
 #googleAnalytics = "UA-188161444-1"
@@ -89,22 +108,3 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 #title = "e-mail"
 #url = "mailto:akumarac@connect.ust.hk"
 
-## Menu items
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-  title= "Amit Kumar, PhD Finance, HKUST" #title for menu items
-
-[sitemap]
- changefreq = "weekly"
- filename = "sitemap.xml"
- priority = 1
-  
-
-[frontmatter]
-lastmod = [":fileModTime", ":default"] #This sets last modification date to modification date of content file.
