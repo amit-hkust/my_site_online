@@ -23,10 +23,12 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+[Taxonomies]
+    tag = "test"
 
 [params]
 #googleAnalytics = "UA-188161444-1"
-#googleMeasurementID = "G-MCH569NNFG"
+googleMeasurementID = "G-MCH569NNFG"
 html_title = "Amit Kumar | PhD Fin. | HKUST"
 author = "Amit Kumar"
 copyright = ""
@@ -40,7 +42,7 @@ profilePicture_alt = "Amit Kumar, PhD Finance, HKUST"
 ssrn_email = "https://papers.ssrn.com/sol3/GetAuthorEmail.cfm?partid=2664500"
 url_cv = "files/Amit_CV.pdf"
 url_ssrn = "https://www.ssrn.com/author=2664500"
-keywords = "Amit Kumar HKUST, Amit Kumar Finance"
+keywords = "Amit Kumar HKUST, Amit Kumar PhD Finance"
 favicon = "images/"
 # example ["css/custom.css"]
 customCss = []
@@ -59,7 +61,7 @@ doNotLoadAnimations = false
 
 
 disableThemeSwitcher = true
-
+disableKinds = ["section", "taxonomy", "taxonomyTerm"] #Disable all sections, we have single page layout
 [params.simpleAnalytics]
 # enable = true
 # customurl = "https://analytics.example.com"
@@ -98,5 +100,11 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
   url = "/"
   title= "Amit Kumar, PhD Finance, HKUST" #title for menu items
 
+[sitemap]
+ changefreq = "weekly"
+ filename = "sitemap.xml"
+ priority = 1
   
-  
+
+[frontmatter]
+lastmod = [":fileModTime", ":default"] #This sets last modification date to modification date of content file.

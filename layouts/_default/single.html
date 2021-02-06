@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{/* Amit modified: We do not need FB comments and post etc., so disabling.
     <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
         <div class="post-content">
             {{ if .Params.thumbnail }}
@@ -26,13 +27,14 @@
             {{- end -}}
 
         </div>
-        <div class="post-footer">
-            <div class="info">
-                {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-                {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+        
+            <div class="post-footer">
+                <div class="info">
+                    {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                    {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+                </div>
             </div>
-        </div>
-
+        
         {{ if eq .Type "post"}}
             {{- if .Site.DisqusShortname -}}
                 <div id="fb_comments_container">
@@ -47,6 +49,8 @@
             </div>
             {{- end -}}
         {{ end }}
+        */}}
+   
     </div>
 
 {{ end }}
