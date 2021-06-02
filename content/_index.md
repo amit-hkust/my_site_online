@@ -10,7 +10,7 @@ Before joining the PhD program, I worked in India as a VLSI engineer at Freescal
 ### Research Interests 
 ##### Household Finance, Municipal Finance, and Banking.
 
-### Achievements
+### Recognition
 ##### Selected in the *Junior Scholars Program* of American Real Estate and Urban Economics Association (AREUEA) 2021.
 
 ### Ad hoc Referee
