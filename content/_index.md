@@ -11,7 +11,7 @@ Before joining the PhD program, I worked in India as a VLSI engineer at Freescal
 ##### Household Finance, Municipal Finance, and Banking.
 
 ### Achievements
-##### Selected in Junior Scholars Program 2021 at American Real Estate and Urban Economics Association (AREUEA).
+##### Selected in the *Junior Scholars Program* of American Real Estate and Urban Economics Association (AREUEA) 2021.
 
 ### Ad hoc Referee
 ##### Real Estate Economics, Financial Management, Journal of Multinational Financial Management. 
