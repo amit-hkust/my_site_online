@@ -95,7 +95,35 @@
 
     <!-- Twitter Cards -->
     {{ template "_internal/twitter_cards.html" . }}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+   
+    <!--Load jquery -->
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+   
+    <!-- Global site tag (gtag.js) - Google Analytics New -->
+    <script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
+
+    <script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag(){dataLayer.push(arguments);}
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-MCH569NNFG', {
+
+    'custom_map': {'dimension1': 'ip_visitor'}
+
+    });
+
+    gtag('event', 'ip_address', {'ip_visitor': myip});
+
+</script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics Working -->
+    <!-- 
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleMeasurementID}}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -103,8 +131,8 @@
         gtag('js', new Date());
         gtag('config', 'G-MCH569NNFG');
     </script>
-
+    -->
     <meta name="description" content="{{ .Site.Params.meta_description}}"/>
-      <!--Load jquery -->
-    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+    
+    
  </head>
