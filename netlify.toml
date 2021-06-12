@@ -16,7 +16,7 @@
     #functions = folder where your netlify functions are located
     functions = "functions"
     Functions = "lambda"
-    Command = "npm run build:lambda"
+    
     
     
 
