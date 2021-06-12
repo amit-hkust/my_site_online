@@ -15,9 +15,10 @@
 
     #functions = folder where your netlify functions are located
     functions = "functions"
-
+    Functions = "lambda"
+    Command = "npm run build:lambda"
     
-    command = "cd ./functions/ && npm install && cd ../../ && npm run generate"
+    
 
 #///////////////////////////////
 # URL Redirects
