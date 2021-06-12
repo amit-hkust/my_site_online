@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+const fetch = require("node-fetch").default;
 const API_ENDPOINT = 'https://ipinfo.io/json';
 exports.handler = async (event, context) => {
     try {
