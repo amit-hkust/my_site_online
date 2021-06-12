@@ -16,6 +16,8 @@
     #functions = folder where your netlify functions are located
     functions = "functions"
 
+    [build]
+    command = "cd ./functions/ && npm install && cd ../../ && npm run generate"
 
 #///////////////////////////////
 # URL Redirects
