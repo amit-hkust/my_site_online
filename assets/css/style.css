@@ -43,86 +43,113 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: Georgia, Times, "Times New Roman"; /*Amit modified here*/
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif; /*Amit modified here. Use sans-serif font.*/
+    font-size: 18px;
     width: 100%;
-    background-color: var(--bg-color);
+    
 }
 
 p {
-    line-height: 1.6em; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 16px; /*Amit modified here*/
+    line-height: 1.5; /*controls line spacing of <p>. Abstact's line-height*/
+    font-size: 18px; /*Amit modified here. Abstract font size*/
     margin-top: 5px;
-    margin-bottom: 10px;
-    color: #424141;
-    font-weight:500;
+    margin-bottom: 5px;
+    /*color: #222222;*/
+    color: var(--nav-text-color);
+    font-weight:400;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .conference { /*Conference Class. Amit modified here*/
-    line-height: 17px; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 15px; 
-    margin-top: 0px;
+    line-height: 1.5; /*controls line spacing*/
+    font-size: 16px; 
+    margin-top: 10pt;
     margin-bottom: 10px;
     color: #5d5c5c;
+    background-color: #eeebeb;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
-.author { /*Conference Class. Amit modified here*/
-    line-height: 17px; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 15px; 
+.titlelink { /*Class for putting download links within paper heading . Amit modified here*/
+    line-height: 1; /*controls line spacing of br ans all lines in <p>*/
+    font-size: 10pt;
+}
+
+.author { /*Author Class. Amit modified here*/
+    line-height: 1; /*controls line spacing of br ans all lines in <p>*/
+    font-size: 16px; 
     margin-top: 0px;
-    margin-bottom: 10px;
-    color: #5d5c5c;
-    font-style: oblique;
+    margin-bottom: 0px;
+    /*font-style: oblique; */ /*Author names in italics*/
     font-weight: normal;
 }
 
 a { /*This controls all link attributes.*/
     text-decoration: underline;
     font-weight: normal;
-    font-size: 0.9rem;
     font-variant:normal;
-    color:#b41e07;
+    color:#923324;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: var(--border-color); 
+    background-color: var(--border-color); 
+}
+
+h3 { /*Setting for "PAPER TITLES" and title such as "Research Interest" */
+    /* color:#524f4f;*/
+     font-size:18px;
+     margin-bottom: 2px;
+     margin-left: 0rem;
+     padding-left: 0rem;
+ }
+ 
+h5 { /*Setting for LINES under TITLES such as "Research Interest" etc. Formatted same as <p> */
+    font-size: 18px; 
+    line-height: 1.5; /*controls line spacing*/
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h4 { /*H4 heading for text below name on sidebar */
+    font-size: 18px; 
+    line-height: 1.5; /*controls line spacing*/
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    text-align: center;
+    text-justify: inter-word;
 }
 
 h1 { /*This is deep blue headings */
     color:#02699A;
     font-variant: small-caps;
-    font-size:2rem;
+    font-size:28px;
     margin-bottom: 0.1rem;
     margin-top:-0.6rem;
 }
 
-h2 { /*This is deep blue headings */
+h2 { /*This is deep blue ABOUT ME Heading */
     color:#02699A;
     font-variant: small-caps;
-    font-size:1.2rem;
+    font-size:24px;
 } 
 
-h3 { /*Setting for PAPER TITLES */
-    color:#524f4f;
-    font-size:1rem;
-    margin-bottom: 0.2rem;
-    margin-left: 0rem;
-    padding-left: 0rem;
-}
 
-h4 { /*H4 heading for text below name on sidebar */
-    line-height: 1.6em; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 16px; /*Amit modified here*/
-    margin-bottom: 0.2rem;
-    margin-top:-0.3rem;
-    color: #424141;
-    font-weight:500;
-}
 
-h5 { /*H5 heading formatted same as <p> */
-    line-height: 1.6em; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 16px; /*Amit modified here*/
-    margin-top: 5px;
-    margin-bottom: 10px;
-    color: #424141;
-    font-weight:500;
-}
+
 
 ul { /* Font control for unordered list e.g. conferences */
     color:#494747;
@@ -147,9 +174,10 @@ ol { /* Font control for ordered list e.g. conferences */
 
 .autopagerize_page_element { /*Everything in Main content beneath top bar*/
     padding-top:0px;
-    font-weight: 500;
-    padding-left:1px;
-    line-height: 1.5em; /*controls line spacing of br ans all lines in <p>*/
+    overflow:auto;
+    background-color: var(--bg-color);
+    border-color: var(--border-color);
+    
 }
 
 .autopagerize_page_element .a { 
@@ -158,6 +186,8 @@ ol { /* Font control for ordered list e.g. conferences */
     font-size: 18px;
     font-variant:normal;
 }
+
+
 
 blockquote {
     padding: 0 1em;
@@ -410,10 +440,10 @@ a:active {
 
 .sidebar .logo-title .title h2 { /*This is "Title" just above the picture"*/
     /*text-transform: uppercase;*/ /*Amit modified here*/
-    font-size: 1.8rem;
-    font-weight: bold;
+   font-size: 1.8rem;
+   font-weight: bold;
     /*letter-spacing: 2px;*/
-    line-height: 1em;
+   line-height: 1em;
    /* margin: 1em;*/
    margin-top: 5px;
    margin-bottom: 10px;
@@ -1156,23 +1186,63 @@ print {
     will-change: transform;
 }
 
+
+@media (min-width: 641px) and (max-width: 1920px){ /*For display>=641, modifies width of two columns for laptop displays */
+    .sidebar {
+        padding-left: 1%;
+        width: 24%;
+        position: fixed;
+        z-index: 1;
+        overflow:hidden;  
+    }
+    .content {
+        padding-left: 25%;
+        width: 74%;
+        padding-right:1%;
+        position: absolute;
+        overflow: auto;
+        z-index: 2;
+    }
+    .page-top {
+        width:75%;
+        position: fixed;
+        overflow: hidden;
+    }
+
+}
+
+@media (min-width: 1921px){
+    .sidebar {
+        padding-left: 10%;
+        width: 20%;
+        position: fixed;
+        z-index: 1;
+        overflow:hidden;  
+    }
+   
+    .content {
+        padding-left: 30%;
+        width: 60%;
+        padding-right:10%;
+        position: absolute;
+        overflow: auto;
+        z-index: 2;
+    }
+    .page-top {
+        width:70%;
+        position: fixed;
+        overflow: hidden;
+
+    }
+       
+}    
+
+
 @media print { /* for printing*/
 	.page-top {
 		display: none;
 	}
 }
-
-@media (min-width: 641px){ /*For display>=641, modifies width of two columns for laptop displays */
-    .content {
-        padding-right: 1%;
-        width: 74%;
-    }
-    .sidebar {
-        padding-left: 1%;
-        width: 24%;
-    }
-}
-
 
 /* (CONTACT) FORM */
 
