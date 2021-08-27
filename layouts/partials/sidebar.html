@@ -7,8 +7,7 @@
             <img src="{{ .Site.Params.profilePicture | absURL }}" alt="{{ .Site.Params.profilePicture_alt }}">
             <br>
             <div class="description">{{ .Site.Params.sidebar_line2}}
-                <a href="{{.Site.Params.ssrn_email}}" title="View Email"  target="popup"
-                onclick="window.open('{{.Site.Params.ssrn_email}}','popup','width=500,height=600'); return false;"> Email</a> . 
+                <a href="{{.Site.Params.ssrn_email}}" target="_blank" title="Email" onclick="window.open(this.href,'','width=800,height=500');return false;"> Email</a> 
             <br><img src="images/hkust.jpg" alt="Amit Kumar, PhD Finance, HKUST" width="50" height="50">
           </div>
         </div>

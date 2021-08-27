@@ -425,7 +425,7 @@ a:active {
     font-weight: normal;
     text-justify: inter-word;
     font-size:0.9rem;
-    line-height: 1.1rem;
+    line-height: 1.5;
     max-width: 78%;
     margin: 0 auto;
     margin-top: 10px;
@@ -1192,7 +1192,7 @@ print {
         padding-left: 1%;
         width: 24%;
         position: fixed;
-        z-index: 1;
+        z-index: 2;
         overflow:hidden;  
     }
     .content {
@@ -1201,7 +1201,7 @@ print {
         padding-right:1%;
         position: absolute;
         overflow: auto;
-        z-index: 2;
+        z-index: 1;
     }
     .page-top {
         width:75%;
@@ -1216,7 +1216,7 @@ print {
         padding-left: 10%;
         width: 20%;
         position: fixed;
-        z-index: 1;
+        z-index: 2;
         overflow:hidden;  
     }
    
@@ -1226,7 +1226,7 @@ print {
         padding-right:10%;
         position: absolute;
         overflow: auto;
-        z-index: 2;
+        z-index: 1;
     }
     .page-top {
         width:70%;
