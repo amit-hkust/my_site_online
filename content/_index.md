@@ -53,7 +53,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 ## Other Information
 
 ### Industry Experience
-##### Before joining the PhD program, I worked in India as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.   
+##### Before joining the PhD program, I worked as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.   
 ***
 
 
