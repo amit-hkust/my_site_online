@@ -2,7 +2,7 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting. Before joining the PhD program, I worked in India as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.
+I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting.
 
 
 ### Research Interests 
@@ -47,7 +47,13 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
    <b>Media Mention:</b> [Bloomberg](https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong) 
    </div>
 
-   
+***
+&nbsp;
+
+## Other Information
+
+### Industry Experience
+##### Before joining the PhD program, I worked in India as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.   
 ***
 
 
