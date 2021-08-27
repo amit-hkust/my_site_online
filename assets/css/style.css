@@ -46,17 +46,16 @@ body {
     font-family: Arial, Helvetica, sans-serif; /*Amit modified here. Use sans-serif font.*/
     font-size: 18px;
     width: 100%;
-    
+    line-height: 1.5; /*controls line spacing of <p>. Abstact's line-height*/
 }
 
 p {
-    line-height: 1.5; /*controls line spacing of <p>. Abstact's line-height*/
     font-size: 18px; /*Amit modified here. Abstract font size*/
     margin-top: 5px;
     margin-bottom: 5px;
     /*color: #222222;*/
     color: var(--nav-text-color);
-    font-weight:400;
+    font-weight:500;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -78,7 +77,7 @@ p {
 
 .titlelink { /*Class for putting download links within paper heading . Amit modified here*/
     line-height: 1; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 10pt;
+    font-size: 16px;
 }
 
 .author { /*Author Class. Amit modified here*/
@@ -154,7 +153,7 @@ h2 { /*This is deep blue ABOUT ME Heading */
 ul { /* Font control for unordered list e.g. conferences */
     color:#494747;
     font-size:14px;
-    line-height: 1.4rem;
+    line-height: 1.5rem;
     margin-bottom: 1rem;
     margin-top: -0.5rem;
     padding-top: 0rem;
@@ -164,7 +163,7 @@ ul { /* Font control for unordered list e.g. conferences */
 ol { /* Font control for ordered list e.g. conferences */
     color:#494747;
     font-size:14px;
-    line-height: 1.4rem;
+    line-height: 1.5rem;
     margin-bottom: 1rem;
     margin-top: -0.5rem;
     margin-left: 0.1rem;
@@ -440,10 +439,10 @@ a:active {
 
 .sidebar .logo-title .title h2 { /*This is "Title" just above the picture"*/
     /*text-transform: uppercase;*/ /*Amit modified here*/
-   font-size: 1.8rem;
+    font-size: 18px;
    font-weight: bold;
     /*letter-spacing: 2px;*/
-   line-height: 1em;
+   line-height: 1.5;
    /* margin: 1em;*/
    margin-top: 5px;
    margin-bottom: 10px;
@@ -492,14 +491,14 @@ a:active {
     text-transform: uppercase;
     font-size: 30px;
     letter-spacing: 5px;
-    line-height: 1;
+    line-height: 1.5;
 }
 
 .post .post-title h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 28px;
-    line-height: 1;
+    line-height: 1.5;
     font-weight: 600;
     color: var(--heading-color);
 }
@@ -507,7 +506,7 @@ a:active {
 .post .post-title h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
-    line-height: 1;
+    line-height: 1.5;
     font-weight: 600;
     /* color: #464646; */
     color: var(--heading-color);
