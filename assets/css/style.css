@@ -52,24 +52,45 @@ body {
 p {
     font-size: 18px; /*Amit modified here. Abstract font size*/
     margin-top: 5px;
-    margin-bottom: 5px;
+    padding-bottom: 0px;
     /*color: #222222;*/
     color: var(--nav-text-color);
-    font-weight:500;
+    font-weight:normal;
     text-align: justify;
     text-justify: inter-word;
+    padding-left: 4px; /*The lines below titles are indented by 3 px*/
+}
+
+h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
+    /* color:#524f4f;*/
+     font-size:18px;
+     margin-bottom: 1px;
+     margin-top:10px;
+     margin-left: 0px;
+     padding-left: 0px;
+ }
+
+ h5 { /*Setting for LINES under TITLES such as "Research Interest" etc. Formatted same as <p> */
+    font-size: 18px; 
+    line-height: 1.5; /*controls line spacing*/
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 4px; /*The lines below titles are indented by 3 px*/
 }
 
 .conference { /*Conference Class. Amit modified here*/
     line-height: 1.5; /*controls line spacing*/
     font-size: 16px; 
-    margin-top: 10pt;
-    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     color: #5d5c5c;
     background-color: #eeebeb;
-    padding-left: 15px;
+    padding-left: 20px;
     padding-right: 15px;
-    padding-top:10px;
+    padding-top:15px;
     padding-bottom:10px;
     text-align: justify;
     text-justify: inter-word;
@@ -87,6 +108,7 @@ p {
     margin-bottom: 0px;
     /*font-style: oblique; */ /*Author names in italics*/
     font-weight: normal;
+    padding-bottom: 0px;
 }
 
 a { /*This controls all link attributes.*/
@@ -104,25 +126,7 @@ hr {
     background-color: var(--border-color); 
 }
 
-h3 { /*Setting for "PAPER TITLES" and title such as "Research Interest" */
-    /* color:#524f4f;*/
-     font-size:18px;
-     margin-bottom: 2px;
-     margin-left: 0rem;
-     padding-left: 0rem;
- }
- 
-h5 { /*Setting for LINES under TITLES such as "Research Interest" etc. Formatted same as <p> */
-    font-size: 18px; 
-    line-height: 1.5; /*controls line spacing*/
-    margin-top: 2px;
-    margin-bottom: 10px;
-    font-weight: normal;
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-h4 { /*H4 heading for text below name on sidebar */
+h4 { /*For text below name on sidebar */
     font-size: 18px; 
     line-height: 1.5; /*controls line spacing*/
     margin-top: 2px;
@@ -132,7 +136,7 @@ h4 { /*H4 heading for text below name on sidebar */
     text-justify: inter-word;
 }
 
-h1 { /*This is deep blue headings */
+h1 { /*This is deep blue AMIT KUMAR in sidebar */
     color:#02699A;
     font-variant: small-caps;
     font-size:28px;
@@ -144,6 +148,7 @@ h2 { /*This is deep blue ABOUT ME Heading */
     color:#02699A;
     font-variant: small-caps;
     font-size:24px;
+    margin-bottom: 0px;
 } 
 
 
