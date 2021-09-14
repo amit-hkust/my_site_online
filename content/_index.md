@@ -45,6 +45,12 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
    <b>Media Mention:</b> [Bloomberg](https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong) 
    </div>
 
+&nbsp;
+
+### Uncharted Waters: Pollution and Municipal Finance <span class= "titlelink">[[Download]](files/munis_pollution.pdf) [[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639)</span>
+   <span class="author">Joint with [Daisy Huang](https://www.ssrn.com/author=1464447)</span>
+   <br>We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.
+
 ***
 &nbsp;
 
