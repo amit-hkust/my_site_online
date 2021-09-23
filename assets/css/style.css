@@ -111,6 +111,18 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
     padding-bottom: 0px;
 }
 
+.randr { /*Class for writing R&R below Paper Titles*/
+        line-height: 1; /*controls line spacing of br ans all lines in <p>*/
+        font-size: 16px; 
+        margin-top: -5px;
+        margin-bottom: 0px;
+        padding-top:-5px;
+        padding-bottom: 0px;
+        font-style: oblique; /*R&R text  in italics*/
+        font-weight: bold;
+        color:#02699A;
+    }
+
 a { /*This controls all link attributes.*/
     text-decoration: underline;
     font-weight: normal;
@@ -151,10 +163,6 @@ h2 { /*This is deep blue ABOUT ME Heading */
     margin-bottom: 0px;
 } 
 
-
-
-
-
 ul { /* Font control for unordered list e.g. conferences */
     color:#494747;
     font-size:14px;
@@ -190,8 +198,6 @@ ol { /* Font control for ordered list e.g. conferences */
     font-size: 18px;
     font-variant:normal;
 }
-
-
 
 blockquote {
     padding: 0 1em;

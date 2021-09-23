@@ -35,7 +35,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 &nbsp;
 
 ### Do Women Receive Worse Financial Advice <span class = "titlelink">[[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377)</span>
-   <span class="author">Joint with [Utpal Bhattacharya](https://ubhattac.people.ust.hk/), [Sujata Visaria](https://www.bm.ust.hk/econ/faculty-and-staff/directory/87), and [Jing Zhao](https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/)</span>
+   <span class  = "randr">Revise and Resubmit at The Journal of Finance</span>
+   <br><span class="author">Joint with [Utpal Bhattacharya](https://ubhattac.people.ust.hk/), [Sujata Visaria](https://www.bm.ust.hk/econ/faculty-and-staff/directory/87), and [Jing Zhao](https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/)</span>
    <br>Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook, are especially likely to receive suboptimal advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
 
    <div class="conference">
