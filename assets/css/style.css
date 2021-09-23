@@ -10,7 +10,7 @@
     --form-border-color: #9f9f9f;
     --form-button-hover-border-color: #000;
     --pre-bg-color: #f9f9fd;
-    --nav-text-color: #5a5a5a;
+    --nav-text-color: #585858; /*main color of text for entire webpage. default: #5a5a5a*/
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
@@ -58,7 +58,7 @@ p {
     font-weight:normal;
     text-align: justify;
     text-justify: inter-word;
-    padding-left: 4px; /*The lines below titles are indented by 3 px*/
+    padding-left: 5px; /*The lines below titles are indented by 5 px*/
 }
 
 h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
@@ -68,9 +68,10 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
      margin-top:10px;
      margin-left: 0px;
      padding-left: 0px;
+     color:rgb(60, 60, 60); /* Headings should be little darker than rest of the font*/
  }
 
- h5 { /*Setting for LINES under TITLES such as "Research Interest" etc. Formatted same as <p> */
+ h5 { /*Setting for LINES below TITLES such as "Research Interest" etc. Formatted same as <p> */
     font-size: 18px; 
     line-height: 1.5; /*controls line spacing*/
     margin-top: 2px;
@@ -84,8 +85,9 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
 .conference { /*Conference Class. Amit modified here*/
     line-height: 1.5; /*controls line spacing*/
     font-size: 16px; 
-    margin-top: 0px;
+    margin-top: -10px;
     margin-bottom: 0px;
+    margin-left:5px; /*either same or larger than left margin for <p>*/
     color: #5d5c5c;
     background-color: #eeebeb;
     padding-left: 20px;

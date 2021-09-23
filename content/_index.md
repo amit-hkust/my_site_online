@@ -42,9 +42,9 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
    <div class="conference">
       <b>Conference presentations:</b>	Swedish House of Finance Annual Conference 2020 (Consumer Behavior in Financial Markets) &#9679; AFA 2021* &#9679; Southern Finance Association (SFA) 2020 &#9679; The Frontiers in Development policy Conference, Korea Development Institute School of Public Policy and Management* &#9679; </i> 
    <br><i>* Presented by co-authors.</i>
-   
-   <b>Media Mention:</b> [Bloomberg](https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong) 
+   <br><b>Media Mention:</b> <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong>Bloomberg</a>
    </div>
+   
 
 &nbsp;
 
