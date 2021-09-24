@@ -15,6 +15,7 @@
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
+    --deepblue-color:#02699A;
     scroll-padding-top: 100px;
     overflow-x: hidden;
     }
@@ -88,7 +89,7 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
     margin-top: -10px;
     margin-bottom: 0px;
     margin-left:5px; /*either same or larger than left margin for <p>*/
-    color: #5d5c5c;
+    color: #5d5c5c; /* light background*/
     background-color: #eeebeb;
     padding-left: 20px;
     padding-right: 15px;
@@ -122,7 +123,7 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
         padding-bottom: 0px;
         font-style: oblique; /*R&R text  in italics*/
         font-weight: bold;
-        color:#02699A;
+        color:var(--deepblue-color);
     }
 
 a { /*This controls all link attributes.*/
@@ -132,12 +133,22 @@ a { /*This controls all link attributes.*/
     color:#923324;
 }
 
-hr {
-    border: none;
+.hr1 { /*horizontal line class for thick shadowy line to DELIMIT MAIN SECTIONS */
+    border: 0;
+    height: 15px;
+    box-shadow: inset 0px 11px 12px -8px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
+    /* color: var(--border-color); /* Set the hr color */
+    /*background-color: var(--border-color);*/
+}
+
+.hr2 { /*horizontal line class for thin lines below each paper*/
+    border: 0;
     height: 1px;
-    /* Set the hr color */
-    color: var(--border-color); 
-    background-color: var(--border-color); 
+    color: var(--border-color); /* Set the hr color */
+    background-color: var(--border-color);
+    width: 40%;
+    margin-left: 5px;
+    margin-right: auto;
 }
 
 h4 { /*For text below name on sidebar */
@@ -151,7 +162,7 @@ h4 { /*For text below name on sidebar */
 }
 
 h1 { /*This is deep blue AMIT KUMAR in sidebar */
-    color:#02699A;
+    color:var(--deepblue-color);
     font-variant: small-caps;
     font-size:28px;
     margin-bottom: 0.1rem;
@@ -159,7 +170,7 @@ h1 { /*This is deep blue AMIT KUMAR in sidebar */
 }
 
 h2 { /*This is deep blue ABOUT ME Heading */
-    color:#02699A;
+    color:var(--deepblue-color);
     font-variant: small-caps;
     font-size:24px;
     margin-bottom: 0px;
@@ -904,7 +915,7 @@ a.btn {
     text-decoration: none;
     cursor: pointer;
     border: 1px solid var(--border-color);
-    background-color: #02699A; 
+    background-color: var(--deepblue-color); 
     white-space: nowrap;
     font-style: normal;
     font-weight: bold;
