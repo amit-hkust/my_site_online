@@ -136,7 +136,7 @@ a { /*This controls all link attributes.*/
 .hr1 { /*horizontal line class for thick shadowy line to DELIMIT MAIN SECTIONS */
     border: 0;
     height: 15px;
-    box-shadow: inset 0px 11px 12px -8px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
+    box-shadow: inset 0px 11px 12px -5px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
     /* color: var(--border-color); /* Set the hr color */
     /*background-color: var(--border-color);*/
 }
@@ -146,7 +146,7 @@ a { /*This controls all link attributes.*/
     height: 1px;
     color: var(--border-color); /* Set the hr color */
     background-color: var(--border-color);
-    width: 40%;
+    width: 45%;
     margin-left: 5px;
     margin-right: auto;
 }
