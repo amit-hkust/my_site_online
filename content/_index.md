@@ -48,7 +48,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
 &nbsp;
 
-### Polluted Waters and Municipal Finance <span class= "titlelink">[[Download]](files/munis_pollution.pdf) [[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639)</span>
+### Emerging Pollutants and Municipal Finance <span class= "titlelink">[[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639)</span>
    <span class="author">Joint with [Daisy Huang](https://www.ssrn.com/author=1464447)</span>
    <br>We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.
 
@@ -59,6 +59,26 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
 ### Industry Experience
 ##### Before joining the PhD program, I worked as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.   
+<hr class="hr1" />
+&nbsp;
+
+## References
+
+<div class="row">
+  <div class="column"><b>Prof. Utpal Bhattacharya (Committee Chair)</b></div>
+  <div class="column"><b>Prof. Abhiroop Mukherjee</b></div>
+  <div class="column"><b>Prof. Alminas Žaldokas</b></div>
+</div>
+<div class="row">
+  <div class="column">Chair Professor of Finance, HKUST</div>
+  <div class="column">Associate Professor of Finance, HKUST</div>
+  <div class="column">Associate Professor of Finance, HKUST</div>
+</div>
+<div class="row">
+  <div class="column">Email: ubhattac@ust.hk</div>
+  <div class="column">Email: amukherjee@ust.hk</div>
+  <div class="column">Email: alminas@ust.hk</div>
+</div>
 <hr class="hr1" />
 
 
