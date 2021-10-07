@@ -201,6 +201,7 @@ ol { /* Font control for ordered list e.g. conferences */
     float: left;
     width: 30%;
     margin-left:5px;
+    word-wrap: break-word;
 }
   
   /* Clear floats after the columns */
