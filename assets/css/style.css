@@ -202,12 +202,11 @@ ol { /* Font control for ordered list e.g. conferences */
     width: 32%;
     margin-left:5px;
     word-wrap: break-word;
-    padding-left: 2px;
 }
  
 .column2 {
     float: left;
-    width: 33%;
+    width: 32%;
     word-wrap: break-word;
     padding-left: 2px;
 }
