@@ -202,6 +202,7 @@ ol { /* Font control for ordered list e.g. conferences */
     width: 30%;
     margin-left:5px;
     word-wrap: break-word;
+    padding-left: 2px;
 }
   
   /* Clear floats after the columns */
