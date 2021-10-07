@@ -197,14 +197,20 @@ ol { /* Font control for ordered list e.g. conferences */
     padding-left:0px;
 }
 
-.column {
+.column1 {
     float: left;
-    width: 30%;
+    width: 32%;
     margin-left:5px;
     word-wrap: break-word;
     padding-left: 2px;
 }
-  
+ 
+.column2 {
+    float: left;
+    width: 33%;
+    word-wrap: break-word;
+    padding-left: 2px;
+}
   /* Clear floats after the columns */
   .row:after {
     content: "";

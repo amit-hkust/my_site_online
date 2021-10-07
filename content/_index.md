@@ -65,19 +65,19 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 ## References
 
 <div class="row">
-  <div class="column"><b>Prof. Utpal Bhattacharya (Committee Chair)</b></div>
-  <div class="column"><b>Prof. Abhiroop Mukherjee</b></div>
-  <div class="column"><b>Prof. Alminas Žaldokas</b></div>
+  <div class="column1"><b>Prof. Utpal Bhattacharya (Committee Chair)</b></div>
+  <div class="column2"><b>Prof. Abhiroop Mukherjee</b></div>
+  <div class="column2"><b>Prof. Alminas Žaldokas</b></div>
 </div>
 <div class="row">
-  <div class="column">Chair Professor of Finance, HKUST</div>
-  <div class="column">Associate Professor of Finance, HKUST</div>
-  <div class="column">Associate Professor of Finance, HKUST</div>
+  <div class="column1">Chair Professor of Finance, HKUST</div>
+  <div class="column2">Associate Professor of Finance, HKUST</div>
+  <div class="column2">Associate Professor of Finance, HKUST</div>
 </div>
 <div class="row">
-  <div class="column"><span style="font-size:22px">&#9993;</span> ubhattac@ust.hk</div>
-  <div class="column"><span style="font-size:22px">&#9993;</span> amukherjee@ust.hk</div>
-  <div class="column"><span style="font-size:22px">&#9993;</span> alminas@ust.hk</div>
+  <div class="column1"><span style="font-size:22px">&#9993;</span> ubhattac@ust.hk</div>
+  <div class="column2"><span style="font-size:22px">&#9993;</span> amukherjee@ust.hk</div>
+  <div class="column2"><span style="font-size:22px">&#9993;</span> alminas@ust.hk</div>
 </div>
 <hr class="hr1" />
 
