@@ -74,8 +74,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
   <div class="column2"><b>Prof. Abhiroop Mukherjee</b></div>
 </div>
 <div class="row">
-  <div class="column1">Chair Professor, Dept. of Finance, HKUST</div>
-  <div class="column2">Associate Professor, Dept of Finance, HKUST</div>
+  <div class="column1">Chair Professor, Finance, HKUST</div>
+  <div class="column2">Associate Professor, Finance, HKUST</div>
 </div>
 <div class="row">
   <div class="column1">Email: ubhattac@ust.hk</div>
@@ -87,8 +87,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
   <div class="column2"><b>Prof. Alminas Žaldokas</b></div>
 </div>
 <div class="row">
-  <div class="column1">Associate Professor, Dept. of Economics, HKUST</div>
-  <div class="column2">Associate Professor, Dept. of Finance, HKUST</div>
+  <div class="column1">Associate Professor, Economics, HKUST</div>
+  <div class="column2">Associate Professor, Finance, HKUST</div>
 </div>
 <div class="row">
   <div class="column1">Email: svisaria@ust.hk</div>
