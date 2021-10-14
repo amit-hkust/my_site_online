@@ -41,7 +41,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
    <br>Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook, are especially likely to receive suboptimal advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
 
    <div class="conference">
-      <b>Conference Presentations:</b>	Swedish House of Finance Annual Conference 2020 (Consumer Behavior in Financial Markets) &#9679; AFA 2021* &#9679; Southern Finance Association (SFA) 2020 &#9679; The Frontiers in Development policy Conference, Korea Development Institute School of Public Policy and Management* &#9679; </i> 
+      <b>Conference Presentations:</b>	Swedish House of Finance Annual Conference 2020 (Consumer Behavior in Financial Markets) &#9679; AFA 2021* &#9679; The Frontiers in Development policy Conference, Korea Development Institute School of Public Policy and Management* &#9679; </i> 
    <br><b>Media Mention:</b> <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong>Bloomberg</a>
    </div><hr class="hr2" />
    
