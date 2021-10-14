@@ -199,14 +199,14 @@ ol { /* Font control for ordered list e.g. conferences */
 
 .column1 {
     float: left;
-    width: 32%;
+    width: 48%;
     margin-left:5px;
     word-wrap: break-word;
 }
  
 .column2 {
     float: left;
-    width: 32%;
+    width: 48%;
     word-wrap: break-word;
     padding-left: 2px;
 }
