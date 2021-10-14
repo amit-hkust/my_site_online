@@ -78,8 +78,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
   <div class="column2">Associate Professor, Finance, HKUST</div>
 </div>
 <div class="row">
-  <div class="column1">Email: ubhattac@ust.hk</div>
-  <div class="column2">Email: amukherjee@ust.hk</div>
+  <div class="column1">&#9993; ubhattac@ust.hk</div>
+  <div class="column2">&#9993; amukherjee@ust.hk</div>
 </div>
 &nbsp;
 <div class="row">
@@ -91,8 +91,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
   <div class="column2">Associate Professor, Finance, HKUST</div>
 </div>
 <div class="row">
-  <div class="column1">Email: svisaria@ust.hk</div>
-  <div class="column2">Email: alminas@ust.hk</div>
+  <div class="column1">&#9993; svisaria@ust.hk</div>
+  <div class="column2">&#9993; alminas@ust.hk</div>
 </div>
 <hr class="hr1" />
 
