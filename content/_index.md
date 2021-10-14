@@ -29,7 +29,8 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 ### Know Thyself: Free Credit Reports and the Retail Mortgage Market [Job Market Paper] <span class = "titlelink">[[Download]](https://bit.ly/2ZG2Ti7) [[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853)</span>
    Absent precise creditworthiness signals, borrowers may misestimate their creditworthiness. Credit reports---which record one’s creditworthiness---became free in the entire U.S. in 2005, while they had already been free in seven states. Utilizing this change in a difference-in-differences setting, this paper shows that reducing economic costs to consumers of accessing their credit reports improves the mortgage market applicant pool. Specifically, there were more applications, higher approvals but fewer delinquencies, and approvals increased primarily for the lowest-income-quartile borrowers. Additional findings, including interest rates increase, suggest a demand-driven mechanism where high-creditworthiness borrowers enter (or stay-in) the credit market and low-creditworthiness borrowers exit.
    <div class="conference">
-      <b>Conference presentations:</b> Asian Bureau of Finance and Economic Research (ABFER) 8th Annual Conference &#9679; AREUEA 2021 National Conference &#9679; 2021 Annual Meeting of the Swiss Society for Financial Market Research (SGF) &#9679; University of Texas Austin PhD Student Symposium on Financial Market Policy Development & Research (2020) &#9679; International Banking, Economics, and Finance Association (IBEFA 2021) &#9679; 15th Conference on Asia-Pacific Financial Markets (CAFM) <b>Best PhD Dissertation Award</b> &#9679; 11th Financial Markets and Corporate Governance (FMCG) Conference <b>Best PhD Dissertation Award</b> &#9679;  FMA Annual Conference 2020: Doctoral Student Consortium Job Market Presentation and Panel Session &#9679; AFA 2021 PhD Poster Session &#9679; 11th Emerging Markets Finance Conference &#9679; Australasian Finance and Banking Conference (AFBC 2020) &#9679; 5th SDU Finance Workshop, 2020 (University of Southern Denmark) &#9679; PhD Mentoring Day at the 28th Finance Forum 2020, the Annual Meeting of the Spanish Finance Association (AEFIN) &#9679; 2020 Greater China Area Finance Conference &#9679;
+      <b>Conference presentations:</b> Asian Bureau of Finance and Economic Research (ABFER) 8th Annual Conference &#9679; AREUEA 2021 National Conference &#9679; 2021 Annual Meeting of the Swiss Society for Financial Market Research (SGF) &#9679; University of Texas Austin PhD Student Symposium on Financial Market Policy Development & Research (2020) &#9679; International Banking, Economics, and Finance Association (IBEFA 2021) &#9679; Doctoral Student Consortium Job Market Presentation Session of FMA Annual Conference (2020) &#9679; AFA 2021 PhD Poster Session &#9679; 11th Emerging Markets Finance Conference &#9679; Australasian Finance and Banking Conference (AFBC 2020) &#9679; 5th SDU (University of Southern Denmark) Finance Workshop, 2020  &#9679; PhD Mentoring Day at the 28th Finance Forum 2020, the Annual Meeting of the Spanish Finance Association (AEFIN) &#9679; 2020 Greater China Area Finance Conference &#9679;
+      <br><b>Best PhD Disseration Awards:</b> 15th Conference on Asia-Pacific Financial Markets (CAFM) &#9679; 11th Financial Markets and Corporate Governance (FMCG) Conference &#9679;
      </div><hr class="hr2" />
 
 &nbsp;
@@ -41,7 +42,6 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
    <div class="conference">
       <b>Conference presentations:</b>	Swedish House of Finance Annual Conference 2020 (Consumer Behavior in Financial Markets) &#9679; AFA 2021* &#9679; Southern Finance Association (SFA) 2020 &#9679; The Frontiers in Development policy Conference, Korea Development Institute School of Public Policy and Management* &#9679; </i> 
-   <br><i>* Presented by co-authors.</i>
    <br><b>Media Mention:</b> <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong>Bloomberg</a>
    </div><hr class="hr2" />
    
@@ -52,12 +52,17 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
    <span class="author">Joint with [Daisy Huang](https://www.ssrn.com/author=1464447)</span>
    <br>We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.
 
+   <div class="conference">
+   <b>Conference presentations:</b> 16th Conference on Asia-Pacific Financial Markets (CAFM)* (scheduled) &#9679;
+   <br><i>* Presented by co-authors.</i>
+   </div>
+
 <hr class="hr1" />
 &nbsp;
 
 ## Other Information
 
-### Industry Experience
+### Pre-PhD Work Experience
 ##### Before joining the PhD program, I worked as a VLSI engineer at Freescale Semiconducor (now NXP semiconductor), as a Scientist/Engineer at the Indian Space Research Organization (ISRO), and as a Project Finance manager in the power sector at ICICI Bank.   
 <hr class="hr1" />
 &nbsp;
