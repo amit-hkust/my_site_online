@@ -116,7 +116,7 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
 
 .randr { /*Class for writing R&R below Paper Titles*/
         line-height: 1; /*controls line spacing of br ans all lines in <p>*/
-        font-size: 16px; 
+        font-size: 18px; 
         margin-top: -5px;
         margin-bottom: 0px;
         padding-top:-5px;
