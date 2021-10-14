@@ -9,7 +9,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 ##### Consumer and Household Finance, Municipal Finance, and Banking.
 
 ### Recognition
-##### Selected in the *Junior Scholars Program* of American Real Estate and Urban Economics Association (AREUEA) 2021.
+##### Selected in the Junior Scholars Program of American Real Estate and Urban Economics Association (AREUEA) 2021.
 
 ### Ad hoc Referee
 ##### Real Estate Economics, Financial Management, Journal of Multinational Financial Management. 
