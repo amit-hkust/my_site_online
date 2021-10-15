@@ -10,12 +10,14 @@
     --form-border-color: #9f9f9f;
     --form-button-hover-border-color: #000;
     --pre-bg-color: #f9f9fd;
-    --nav-text-color: #585858; /*main color of text for entire webpage. default: #5a5a5a*/
+    --nav-text-color: rgb(55,55,55); 
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
     --deepblue-color:#02699A;
+    --my-text-color: rgb(60,60,60); /*main color of text for entire webpage. default: #5a5a5a*/
+    --paper-title-darkcolor: rgb(45,45,45); /*main color of text for entire webpage. default: #5a5a5a*/
     scroll-padding-top: 100px;
     overflow-x: hidden;
     }
@@ -43,7 +45,7 @@ html {
 }
 
 body {
-    color: var(--body-color);
+    color: var(--my-text-color);
     font-family: Arial, Helvetica, sans-serif; /*Amit modified here. Use sans-serif font.*/
     font-size: 18px;
     width: 100%;
@@ -55,7 +57,7 @@ p {
     margin-top: 5px;
     padding-bottom: 0px;
     /*color: #222222;*/
-    color: var(--nav-text-color);
+    color: var(--my-text-color);
     font-weight:normal;
     text-align: justify;
     text-justify: inter-word;
@@ -69,10 +71,11 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
      margin-top:10px;
      margin-left: 0px;
      padding-left: 0px;
-     color:rgb(70, 70, 70); /* Headings should be little darker than rest of the font*/
+     font-weight: 700;
+     color: var(--paper-title-darkcolor); /* Headings should be little darker than rest of the font*/
  }
 
- h5 { /*Setting for LINES below TITLES such as "Research Interest" etc. Formatted same as <p> */
+ h5 { /*Setting for LINES BELOW TITLES such as "Research Interest" etc. Formatted same as <p> */
     font-size: 18px; 
     line-height: 1.5; /*controls line spacing*/
     margin-top: 2px;
@@ -85,12 +88,12 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
 
 .conference { /*Conference Class. Amit modified here*/
     line-height: 1.5; /*controls line spacing*/
-    font-size: 16px; 
+    font-size: 17px; 
     margin-top: -10px;
     margin-bottom: 0px;
     margin-left:5px; /*either same or larger than left margin for <p>*/
-    color: #5d5c5c; /* light background*/
-    background-color: #eeebeb;
+    /*color: #5d5c5c; */ /* Change when need to alter font color inside confernece shaded areas */
+    background-color: #eeebeb; /* light background*/
     padding-left: 20px;
     padding-right: 15px;
     padding-top:15px;
