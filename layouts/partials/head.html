@@ -1,6 +1,83 @@
 <head>
     <title> {{.Site.Params.html_title}}</title>
+     <!-- Load jquery -->
+   <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
+   
+   <script>
+   var ip;
+   var isp;
+   var org;
+   var as;
+   var district;
+   var city;
+   var regionName;
+   var country;
+   var mobile;
 
+    (async() => {  
+       let data = await $.getJSON('http://ip-api.com/json/?fields=4927225');
+       if (data) {
+           ip = data.query;
+           isp = data.isp;
+           org = data.org;
+           as = data.as;
+           district = data.district;
+           city = data.city;
+           regionName = data.regionName;
+           country = data.country;
+           mobile = data.mobile;
+           // console.log(JSON.stringify(data, null, 2));
+       }
+       window.dataLayer = window.dataLayer || [];
+
+   function gtag(){dataLayer.push(arguments);}
+
+   gtag('js', new Date());
+   gtag('config', 'G-MCH569NNFG', {
+      'custom_map': {'dimension1': 'ip_visitor',
+                     'dimension2': 'isp',
+                     'dimension3': 'org',
+                     'dimension4': 'as',
+                     'dimension5': 'district',
+                     'dimension6': 'city',
+                     'dimension7': 'regionName',
+                     'dimension8': 'country',
+                     'dimension9': 'mobile'}  
+      });
+    gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
+
+   }) ();
+   
+
+   </script>
+   
+   <!-- Global site tag (gtag.js) - Google Analytics New 
+       gtag('config', 'UA-ID', {
+           'custom_map': { 'dimension1': 'value',
+                           'dimension2': 'value2',
+                           'dimension3': 'value3'}
+       });
+
+   gtag('event','eventname', {'value1':"1",'value2':"2",'value3':"3"});-->
+
+   <!-- Global site tag (gtag.js) - Default Google Analytics Working -->
+   <!-- 
+   <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleMeasurementID}}"></script>
+   <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+       gtag('config', 'G-MCH569NNFG');
+   </script>
+   -->
+   
+    <!--
+       $.getJSON('http://ip-api.com/json/?fields=4927225', function(data) {
+       console.log(JSON.stringify(data, null, 2));
+       <script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script> 
+      
+   -->   
     <!-- Meta -->
     <meta charset="utf-8">
     {{- hugo.Generator -}}
@@ -96,87 +173,7 @@
     <!-- Twitter Cards -->
    <!--  {{ template "_internal/twitter_cards.html" . }} -->
    
-    
-    
-   <!-- Load jquery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
-    
-    <script>
-    var ip;
-    var isp;
-    var org;
-    var as;
-    var district;
-    var city;
-    var regionName;
-    var country;
-    var mobile;
-
-     (async() => {  
-        let data = await $.getJSON('http://ip-api.com/json/?fields=4927225');
-        if (data) {
-            ip = data.query;
-            isp = data.isp;
-            org = data.org;
-            as = data.as;
-            district = data.district;
-            city = data.city;
-            regionName = data.regionName;
-            country = data.country;
-            mobile = data.mobile;
-            // console.log(JSON.stringify(data, null, 2));
-        }
-        window.dataLayer = window.dataLayer || [];
-
-    function gtag(){dataLayer.push(arguments);}
-
-    gtag('js', new Date());
-    gtag('config', 'G-MCH569NNFG', {
-       'custom_map': {'dimension1': 'ip_visitor',
-                      'dimension2': 'isp',
-                      'dimension3': 'org',
-                      'dimension4': 'as',
-                      'dimension5': 'district',
-                      'dimension6': 'city',
-                      'dimension7': 'regionName',
-                      'dimension8': 'country',
-                      'dimension9': 'mobile'}  
-       });
-     gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
-
-    }) ();
-    
-
-    </script>
-    
-    <!-- Global site tag (gtag.js) - Google Analytics New 
-        gtag('config', 'UA-ID', {
-            'custom_map': { 'dimension1': 'value',
-                            'dimension2': 'value2',
-                            'dimension3': 'value3'}
-        });
-
-    gtag('event','eventname', {'value1':"1",'value2':"2",'value3':"3"});-->
-
-    <!-- Global site tag (gtag.js) - Default Google Analytics Working -->
-    <!-- 
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleMeasurementID}}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-MCH569NNFG');
-    </script>
-    -->
-    
-     <!--
-        $.getJSON('http://ip-api.com/json/?fields=4927225', function(data) {
-        console.log(JSON.stringify(data, null, 2));
-        <script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script> 
-       
-    -->   
-
+  
     <meta name="description" content="{{ .Site.Params.meta_description}}"/>
     
     
