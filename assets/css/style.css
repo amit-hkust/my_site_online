@@ -161,6 +161,8 @@ h4 { /*For text below name on sidebar */
     font-weight: normal;
     text-align: center;
     text-justify: inter-word;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 h1 { /*This is deep blue AMIT KUMAR in sidebar */
@@ -945,7 +947,7 @@ a.btn {
     margin-left: 10px;
     margin-right: 10px;
     margin-top:5px;
-    margin-bottom:10px;
+    margin-bottom:5px;
 }
 
 .btn:hover {
@@ -1089,7 +1091,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*800/613) + 5.5rem + 50px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
+        margin-top: calc((100vw*800/613) + 5.5rem + 60px); /*tricky -> this decides where content begins 711 to 496 is image height to width*/
         width: 100%;
         z-index: 2;
         position: absolute;
