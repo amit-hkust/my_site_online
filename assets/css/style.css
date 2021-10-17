@@ -1091,7 +1091,7 @@ print {
     }
 
     .content {
-        margin-top: calc((100vw*800/613) + 9.5rem + 60px); /*tricky -> this decides where content begins. Image's Height:800 to Width: 613*/
+        margin-top: calc((100vw*800/613) + 10.5rem + 60px); /*tricky -> this decides where content begins. Image's Height:800 to Width: 613*/
         width: 100%;
         z-index: 2;
         position: absolute;
