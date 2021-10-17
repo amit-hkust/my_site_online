@@ -135,12 +135,13 @@ a { /*This controls all link attributes.*/
     color:#923324;
 }
 
-.hr1 { /*horizontal line class for thick shadowy line to DELIMIT MAIN SECTIONS */
+.hr1 { /*Thick Shadowy Horizontal Line class for  to DELIMIT MAIN SECTIONS */
     border: 0;
     height: 15px;
     box-shadow: inset 0px 11px 12px -5px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
     /* color: var(--border-color); /* Set the hr color */
     /*background-color: var(--border-color);*/
+    margin-bottom:30px;
 }
 
 .hr2 { /*horizontal line class for thin lines below each paper*/
@@ -151,6 +152,7 @@ a { /*This controls all link attributes.*/
     width: 45%;
     margin-left: 5px;
     margin-right: auto;
+    margin-bottom:30px;
 }
 
 h4 { /*For text below name on sidebar */
@@ -173,7 +175,8 @@ h1 { /*This is deep blue AMIT KUMAR in sidebar */
     margin-top:-0.6rem;
 }
 
-h2 { /*This is deep blue ABOUT ME Heading */
+h2 { /*Deep blue headings: ABOUT ME, Working Papers, Other Information etc.*/
+    margin-top: 15px;
     color:var(--deepblue-color);
     font-variant: small-caps;
     font-size:24px;
