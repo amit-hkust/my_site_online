@@ -132,7 +132,6 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
 a { /*This controls all link attributes.*/
     text-decoration: underline;
     font-weight: normal;
-    font-variant:normal;
     color:#923324;
 }
 
