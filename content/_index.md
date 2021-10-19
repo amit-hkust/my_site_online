@@ -15,7 +15,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 ##### Real Estate Economics, Financial Management, Journal of Multinational Financial Management. 
 
 ### Research Grant
-##### HKUST Office of the Vice President for Research and Development Grant:  How Does on-campus residence shapes students? An empirical investigation with lessons for programme design (joint with Sujata Visaria and Kevin Tam).
+##### HKUST Office of the Vice President for Research and Development Grant for the project entitled, “How Does on-campus residence shapes students? An empirical investigation with lessons for programme design” [on a team with Kevin Tam and Sujata Visaria]
 
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
 [comment]: <> (Blurred thick border)
