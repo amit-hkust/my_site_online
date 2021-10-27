@@ -13,6 +13,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
 
 ### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Free Credit Reports and the Retail Mortgage Market [Job Market Paper]</span></a>
+<p></p>
 <details><summary>Abstract</summary>
 <div class=conference>Borrowers may overestimate or underestimate their creditworthiness in the absence of precise signals. Credit reports, which contain such signals, became free for consumers since 2005 in the entire U.S., while they had already been free in seven states. A difference-in-differences strategy employing this reduction in the cost of reports shows that mortgage applications and approvals increased, and delinquencies and credit-history related rejections decreased. These findings appear consistent with a consumer self-learning mechanism where borrowers with high creditworthiness enter or stay in the applicant pool and those with low creditworthiness exit, improving the pool quality. Additional findings rule out supply-driven explanations.</div>
 </details>
@@ -27,7 +28,7 @@ Best PhD Disseration Awards: 15th Conference on Asia-Pacific Financial Markets, 
 
 ### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice</span></a> <span class=author>[Joint with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bm.ust.hk/econ/faculty-and-staff/directory/87 target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
 <span class  = "randr">Revise and Resubmit at The Journal of Finance</span>
-
+<p></p>
 <details><summary>Abstract</summary>
 <div class=conference>Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook, are especially likely to receive suboptimal advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination is unlikely to explain the results.</div>
 </details>
@@ -37,6 +38,7 @@ Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020
 
 
 ### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447"><span class=author>Daisy Huang]</a></span>
+<p></p>
 <details><summary>Abstract</summary>
 <div class=conference>We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.</div>
 </details>
