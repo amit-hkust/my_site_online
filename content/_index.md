@@ -10,7 +10,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
 [comment]: <> ([[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853))
 ## Working Papers
-### Know Thyself: Free Credit Reports and the Retail Mortgage Market [Job Market Paper] <span class = "titlelink">[[Download]](https://bit.ly/2ZG2Ti7)</span>
+### Know Thyself: Free Credit Reports and the Retail Mortgage Market [Job Market Paper] <span class = "titlelink">[[Link]](https://bit.ly/2ZG2Ti7)</span>
  Borrowers may overestimate or underestimate their creditworthiness in the absence of precise signals. Credit reports, which contain such signals, became free for consumers since 2005 in the entire U.S., while they had already been free in seven states. A difference-in-differences strategy employing this reduction in the cost of reports shows that mortgage applications and approvals increased, and delinquencies and credit-history related rejections decreased. These findings appear consistent with a consumer self-learning mechanism where borrowers with high creditworthiness enter or stay in the applicant pool and those with low creditworthiness exit, improving the pool quality. Additional findings rule out supply-driven explanations.
    <div class="conference">
       <b>Selected Conference Presentations:</b> University of Texas Austin PhD Student Symposium 2020 &#9679; AFA PhD Poster Session 2021 &#9679; ABFER 2021 &#9679; FMA Annual Meeting 2021 and 2020 Doctoral Consortium &#9679; AREUEA National Conference 2021 &#9679; AFBC 2020 &#9679; SGF 2021 &#9679;
@@ -23,7 +23,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
       </div>
       <hr class="hr2" />
 
-### Do Women Receive Worse Financial Advice <span class = "titlelink">[[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377)</span>
+### Do Women Receive Worse Financial Advice <span class = "titlelink">[[SSRN Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377)</span>
    <span class  = "randr">Revise and Resubmit at The Journal of Finance</span>
    <br><span class="author">Joint with [Utpal Bhattacharya](https://ubhattac.people.ust.hk/), [Sujata Visaria](https://www.bm.ust.hk/econ/faculty-and-staff/directory/87), and [Jing Zhao](https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/)</span>
    <br>Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook, are especially likely to receive suboptimal advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
@@ -35,7 +35,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
     <b>Financial Press Coverage:</b> <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong>Bloomberg</a>
    </div><hr class="hr2" />
   
-### Polluted Waters and Municipal Finance <span class= "titlelink">[[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639)</span>
+### Polluted Waters and Municipal Finance <span class= "titlelink">[[SSRN Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639)</span>
    <span class="author">Joint with [Daisy Huang](https://www.ssrn.com/author=1464447)</span>
    <br>We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.
   <hr class="hr2" />
