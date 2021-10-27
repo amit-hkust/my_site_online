@@ -16,6 +16,7 @@
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
     --deepblue-color:#02699A;
+    --less-blue:#25495c;
     --my-text-color: rgb(60,60,60); /*main color of text for entire webpage. default: #5a5a5a*/
     --paper-title-darkcolor: rgb(45,45,45); /*main color of text for entire webpage. default: #5a5a5a*/
     scroll-padding-top: 100px;
@@ -67,12 +68,12 @@ p {
 h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
     /* color:#524f4f;*/
      font-size:18px;
-     margin-bottom: 1px;
-     margin-top:14px;
+     margin-bottom: 10px;
+     margin-top:20px;
      margin-left: 0px;
      padding-left: 0px;
-     font-weight: 700;
-     color: var(--paper-title-darkcolor); /* Headings should be little darker than rest of the font*/
+     font-weight: bold;
+     color: var(--less-blue); /* Headings should be little darker than rest of the font*/
  }
 
  h5 { /*Setting for LINES BELOW TITLES such as "Research Interest" etc. Formatted same as <p> */
@@ -87,37 +88,28 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
 }
 
 .conference { /*Conference Class. Amit modified here*/
-    line-height: 1.5; /*controls line spacing*/
-    font-size: 17px; 
-    margin-top: -10px;
-    margin-bottom: 0px;
+    /*line-height: 1.5; /*controls line spacing*/
+    font-size: 18px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left:5px; /*either same or larger than left margin for <p>*/
     /*color: #5d5c5c; */ /* Change when need to alter font color inside confernece shaded areas */
     background-color: #eeebeb; /* light background*/
-    padding-left: 20px;
-    padding-right: 15px;
-    padding-top:15px;
+    padding-top:10px;
     padding-bottom:10px;
+    padding-left:15px;
+    padding-right:15px;
     text-align: justify;
     text-justify: inter-word;
 }
 
-.titlelink { /*Class for putting download links within paper heading . Amit modified here*/
-    line-height: 1; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 16px;
-}
 
 .author { /*Author Class. Amit modified here*/
-    line-height: 1; /*controls line spacing of br ans all lines in <p>*/
-    font-size: 16px; 
-    margin-top: 0px;
-    margin-bottom: 0px;
-    /*font-style: oblique; */ /*Author names in italics*/
+    color:var(--less-blue);
     font-weight: normal;
-    padding-bottom: 0px;
 }
 
-.randr { /*Class for writing R&R below Paper Titles*/
+.randr { /*Class for writing R&R below Paper Titles #923324*/
         line-height: 1; /*controls line spacing of br ans all lines in <p>*/
         font-size: 18px; 
         margin-top: -5px;
@@ -126,14 +118,23 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
         padding-bottom: 0px;
         font-style: oblique; /*R&R text  in italics*/
         font-weight: bold;
-        color:var(--deepblue-color);
+        color:var(--less-blue);
     }
 
 a { /*This controls all link attributes.*/
     text-decoration: underline;
+    /*text-decoration: none;*/
     font-weight: normal;
-    color:#923324;
+    color:var(--less-blue);
 }
+
+
+.titlelink { /*Class for putting download links within paper heading . Amit modified here*/
+    color:var(--less-blue);
+    font-weight: bold;
+    text-decoration: none;
+} 
+
 
 .hr1 { /*Thick Shadowy Horizontal Line class for  to DELIMIT MAIN SECTIONS */
     border: 0;
@@ -142,6 +143,7 @@ a { /*This controls all link attributes.*/
     /* color: var(--border-color); /* Set the hr color */
     /*background-color: var(--border-color);*/
     margin-bottom:30px;
+    margin-top:30px;
 }
 
 .hr2 { /*horizontal line class for thin lines below each paper*/
@@ -152,7 +154,8 @@ a { /*This controls all link attributes.*/
     width: 45%;
     margin-left: 5px;
     margin-right: auto;
-    margin-bottom:30px;
+    margin-bottom:40px;
+    margin-top:10px;
 }
 
 h4 { /*For text below name on sidebar */
@@ -176,27 +179,44 @@ h1 { /*This is deep blue AMIT KUMAR in sidebar */
 }
 
 h2 { /*Deep blue headings: ABOUT ME, Working Papers, Other Information etc.*/
-    margin-top: 15px;
+    margin-top: 20px;
     color:var(--deepblue-color);
     font-variant: small-caps;
     font-size:24px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 } 
 
-ul { /* Font control for unordered list e.g. conferences */
-    color:#494747;
-    font-size:14px;
-    line-height: 1.5rem;
-    margin-bottom: 1rem;
-    margin-top: -0.5rem;
-    padding-top: 0rem;
-    padding-left:5px;
+/*collapsible abstracts, start*/
+    details {
+        user-select: none;
+        margin-bottom:5px;
+    }
+  
+    details>summary span.icon {
+        width: 24px;
+        height: 24px;
+        transition: all 0.3s;
+        margin-left: auto;
+    }
+  
+    summary {
+        cursor: pointer;
+        font-weight: bold;
+    }
+  
+    summary::-webkit-details-marker {
+        display: none;
+    }
+/*collapsible abstracts, start*/
+
+
+ul { /* Font control for unordered list*/
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size:15px;
     }
 
-ol { /* Font control for ordered list e.g. conferences */
-    color:#494747;
-    font-size:14px;
-    line-height: 1.5rem;
+ol { /* Font control for ordered list*/
     margin-bottom: 1rem;
     margin-top: -0.5rem;
     margin-left: 0.1rem;
@@ -286,10 +306,12 @@ a:visited {
 }
 */
 
+
 a:hover,
 a:active {
-    color: #2660ab;
+    color:var(--deepblue-color);
 }
+
 
 /*basic styles ends*/
 /*animation starts*/
@@ -754,18 +776,19 @@ a:active {
 .footer {
     clear: both;
     text-align: center;
-    font-size: 10px;
+    font-size: 18px;
     margin: 0 auto;
     bottom: 0;
     width: 100%;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     flex: 0;
     position: relative;
 }
 
-.footer a {
-   /* color: #A6A6A6;*/
+/*.footer a {
+    color: #A6A6A6;
 }
+*/
 
 .footer a:hover {
     color: #2660ab;
