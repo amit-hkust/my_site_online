@@ -1124,9 +1124,9 @@ print {
         padding-top:10px;
     }
 
-    .footer {
+    /*.footer {
         display: none;
-    }
+    }*/
 
     .share {
         display: grid;
