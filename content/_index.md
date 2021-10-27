@@ -50,21 +50,19 @@ We show that pollution increases the offering yields of municipal bonds, indicat
 </details>
 <hr class="hr1" />
 
-## Other Information
-### Research Grant
+
+## Research Grant
 ##### HKUST Office of the Vice President for Research and Development Grant for the project entitled, “How Does on-campus residence shapes students? An empirical investigation with lessons for programme design” [Team grant, with Kevin Tam and Sujata Visaria]
 <p></p>
 
-### Academic Awards and Fellowships
+<hr class="hr1" />
+
+## Academic Awards and Fellowships
   + Junior Scholars Program, AREUEA 2021.
   + Doctoral Travel Grant, AFA 2020.
   + Hong Kong PhD fellowship scheme, Research Grant Council 2017--2020.
   + Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
   + Among the 54 students across India selected by the Indian Space Research Organization in 2012.
-<p></p>
-
-### Discussant
-##### SFS Cavalcade Asia Pacific 2019. FMA Annual 2020. Australasian Finance and Banking Conference 2020.
 <p></p>
 
 <hr class="hr1" />
