@@ -76,10 +76,14 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
   <div class="column1">ICICI Bank Ltd.</div>
   <div class="column2">2015&ndash;2016</div>
 </div>
+
+&nbsp;
 <div class="row">
   <div class="column1">Indian Space Research Organization</div>
   <div class="column2">2012&ndash;2013</div>
 </div>
+
+&nbsp;
 <div class="row">
   <div class="column1">Freescale Semiconductor India</div>
   <div class="column2">2012&ndash;2013</div>
