@@ -47,15 +47,15 @@ lastmod = [":fileModTime", ":default"] #This sets last modification date to modi
 
 [params]
 #googleAnalytics = "UA-188161444-1"
-googleMeasurementID = "G-MCH569NNFG"
+#googleMeasurementID = "G-MCH569NNFG"
 html_title = "Amit Kumar | PhD Fin. | HKUST"
 author = "Amit Kumar"
 copyright = ""
 meta_description = "Amit Kumar is a PhD student in Finance at HKUST. His research interest includes household finance, municipal finance, and banking."
 sidebar_title = "Amit Kumar"
 sidebar_line1 = "PhD Candidate in Finance, HKUST Business School"
-sidebar_line2 = "Room 5067. Lee Shau Kee Building, HKUST. Clear Water Bay. Kowloon. Hong Kong SAR."
-sidebar_line3 = "amit.kumar@connect.ust.hk"
+#sidebar_line2 = "Room 5067. Lee Shau Kee Building, HKUST. Clear Water Bay. Kowloon. Hong Kong SAR."
+#sidebar_line3 = "amit.kumar@connect.ust.hk"
 profilePicture = "images/1.jpg"
 profilePicture_alt = "Amit Kumar, PhD Finance, HKUST" 
 ssrn_email = "https://papers.ssrn.com/sol3/GetAuthorEmail.cfm?partid=2664500"
