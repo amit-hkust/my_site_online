@@ -2,7 +2,7 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST). I will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting.
+I am a PhD candadate in Finance at The Hong Kong University of Science and Technology (HKUST) Business School. I am on the job market and will be avaialble for interviews during the 2022 AEA/AFA Annual Meeting. My email address is  <a href="mailto:akumarac@connect.ust.hk">akumarac@connect.ust.hk</a>
 
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
 [comment]: <> (Blurred thick border)
@@ -86,9 +86,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 </div>
 <p></p>
 
-### Contact
-##### Room 5067. Lee Shau Kee Building, HKUST. Clear Water Bay. Kowloon. Hong Kong SAR.
-Email: <a href="mailto:akumarac@connect.ust.hk">akumarac@connect.ust.hk</a>
+
 <hr class="hr1" />
 
 ## References
