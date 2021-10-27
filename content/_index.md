@@ -73,15 +73,15 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 
 ### Pre-PhD Work Experience
 <div class="row">
-  <div class="column1">ICICI Bank Ltd. (Manager, Infrastructue Finance)</div>
+  <div class="column1">ICICI Bank Ltd.</div>
   <div class="column2">2015&ndash;2016</div>
 </div>
 <div class="row">
-  <div class="column1">Indian Space Research Organization (ISRO) (Scientist/Engineer)</div>
+  <div class="column1">Indian Space Research Organization</div>
   <div class="column2">2012&ndash;2013</div>
 </div>
 <div class="row">
-  <div class="column1">Freescale Semiconductor India (Semiconductor Design Engineer)</div>
+  <div class="column1">Freescale Semiconductor India</div>
   <div class="column2">2012&ndash;2013</div>
 </div>
 <p></p>
