@@ -212,8 +212,8 @@ h2 { /*Deep blue headings: ABOUT ME, Working Papers, Other Information etc.*/
 
 ul { /* Font control for unordered list*/
     margin-top: 0px;
-    margin-left: 20px;
-    font-size:15px;
+    margin-left: 0px;
+    list-style-type: square;
     }
 
 ol { /* Font control for ordered list*/

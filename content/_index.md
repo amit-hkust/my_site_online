@@ -48,11 +48,11 @@ Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020
 <p></p>
 
 ### Academic Awards and Fellowships
-   &#9642;  Junior Scholars Program, AREUEA 2021.
-  <br> &#9642; Doctoral Travel Grant, AFA 2020.
-  <br> &#9642; Hong Kong PhD fellowship scheme, Research Grant Council 2017--2020.
-  <br> &#9642; Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
-  <br> &#9642; Among the 54 students across India selected by the Indian Space Research Organization in 2012.
+  + Junior Scholars Program, AREUEA 2021.
+  + Doctoral Travel Grant, AFA 2020.
+  + Hong Kong PhD fellowship scheme, Research Grant Council 2017--2020.
+  + Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
+  + Among the 54 students across India selected by the Indian Space Research Organization in 2012.
 <p></p>
 
 ### Discussant
