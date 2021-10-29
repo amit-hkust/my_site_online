@@ -101,7 +101,7 @@ h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
     padding-right:15px;
     text-align: justify;
     text-justify: inter-word;
-}
+    }
 
 
 .author { /*Author Class. Amit modified here*/
@@ -188,7 +188,7 @@ h2 { /*Deep blue headings: ABOUT ME, Working Papers, Other Information etc.*/
 
 /*collapsible abstracts, start*/
     details {
-        user-select: none;
+        user-select: text;
         margin-bottom:5px;
     }
   
