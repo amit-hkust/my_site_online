@@ -16,7 +16,7 @@ I am a PhD candadate in Finance at The Hong Kong University of Science and Techn
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Credit reports record precise creditworthiness signals, in the absence of which consumers may misjudge their creditworthiness. A federal law made credit reports free in the entire U.S. since 2005, while they had already been free in seven states. A difference-in-differences analysis of cross-state contiguous counties reveals that the change led to more mortgage applications and approvals, and fewer delinquencies and credit-history related rejections. The findings are consistent with a consumer self-learning mechanism where borrowers with high creditworthiness enter or stay in the applicant pool and those with low creditworthiness exit, improving the pool quality. Additional findings rule out supply-driven explanations.
+Credit reports contain creditworthiness signals, in the absence of which consumers may misjudge their creditworthiness. A U.S. federal law made credit reports free for all consumers since 2005, while they had already been free in seven states. Comparing contiguous counties across the state borders reveals that free credit reports resulted in more mortgage applications and approvals, and fewer delinquencies and credit-history related rejections. The findings are consistent with a consumer self-learning mechanism where borrowers with high creditworthiness enter or stay in the applicant pool and those with low creditworthiness select-out, improving the pool quality. Additional findings rule out supply-driven explanations.
 </div>
 </details>
 
