@@ -13,11 +13,11 @@ I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Tec
 ## Working Papers
 
 
-### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Free Credit Reports and the Retail Mortgage Market [Job Market Paper]</span></a>
+### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Easier Access to Own Credit Report and Retail Mortgage Market [Job Market Paper]</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Credit reports contain creditworthiness signals, in the absence of which consumers may misjudge their creditworthiness. A U.S. federal law made credit reports free for all consumers since 2005, while they had already been free in seven states. Comparing contiguous counties across the state borders reveals that free credit reports resulted in more mortgage applications and approvals, and fewer delinquencies and credit-history related rejections. The findings are consistent with a consumer self-learning mechanism where borrowers with high creditworthiness enter or stay in the applicant pool and those with low creditworthiness select-out, improving the pool quality. Additional findings rule out supply-driven explanations.
+Borrowers may overestimate or underestimate their creditworthiness in the absence of precise signals. Credit reports, which contain such signals, became easily accessible for consumers in 2005 for the entire U.S., while it was already the case in seven states. A difference-in-differences strategy employing this easier access to credit reports shows that pool quality of mortgage applicants improved as a result---approvals increased and subsequent delinquencies decreased. These findings are consistent with a mechanism where over-estimators exit and under-estimators enter the applicant pool, because easier access to credit reports reduces misestimation of own creditworthiness. Additional findings rule out supply-driven explanations.
 </div>
 </details>
 
