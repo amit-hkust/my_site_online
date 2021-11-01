@@ -62,7 +62,6 @@ We show that pollution increases the offering yields of municipal bonds, indicat
   + Doctoral Travel Grant, AFA 2020.
   + Hong Kong PhD fellowship scheme, Research Grant Council 2017--2020.
   + Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
-  + Among the 54 students across India selected by the Indian Space Research Organization in 2012.
 <p></p>
 
 <hr class="hr1" />
@@ -74,7 +73,7 @@ We show that pollution increases the offering yields of municipal bonds, indicat
 </div>
 <div class="row">
   <div class="column1">Chair Professor, Finance, HKUST</div>
-  <div class="column2">Associate Professor, Finance, HKUST</div>
+  <div class="column2">Liwei Huang Associate Professor of Business, Finance, HKUST</div>
 </div>
 <div class="row">
   <div class="column1">&#9993; ubhattac@ust.hk</div>
