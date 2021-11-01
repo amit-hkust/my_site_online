@@ -53,7 +53,7 @@ We show that pollution increases the offering yields of municipal bonds, indicat
 
 
 ## Research Grant
-##### HKUST Office of the Vice President for Research and Development Grant for the project entitled, “How Does on-campus residence shapes students? An empirical investigation with lessons for programme design” [Team grant, with Kevin Tam and Sujata Visaria]
+##### HKUST Office of the Vice President for Research and Development Grant for the project entitled, “How does on-campus residence shapes students? An empirical investigation with lessons for programme design” [Team grant, with Kevin Tam and Sujata Visaria]
 <p></p>
 
 <hr class="hr1" />
