@@ -21,11 +21,11 @@ Credit reports contain creditworthiness signals, in the absence of which consume
 </div>
 </details>
 
-Selected Presentations: University of Texas Austin PhD Student Symposium 2020, AFA PhD Poster Session 2021, ABFER 2021, FMA Annual Meeting 2021 and 2020 Doctoral Consortium, AREUEA National Conference 2021, AFBC 2020.
+Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, FMA Annual Meeting 2021 and 2020 Doctoral Consortium, AREUEA National Conference 2021, AFBC 2020.
 
 Coverage: The World Bank's All About Finance Blog (scheduled, Nov 8, 2021).
 
-Best PhD Disseration Awards: 15th Conference on Asia-Pacific Financial Markets, 11th Financial Markets and Corporate Governance Conference.
+Best Ph.D. Disseration Awards: 15th Conference on Asia-Pacific Financial Markets, 11th Financial Markets and Corporate Governance Conference.
 <hr class="hr2" />
 
 
@@ -61,7 +61,7 @@ We show that pollution increases the offering yields of municipal bonds, indicat
 ## Academic Awards and Fellowships
   + Junior Scholars Program, AREUEA 2021.
   + Doctoral Travel Grant, AFA 2020.
-  + Hong Kong PhD fellowship scheme, Research Grant Council 2017--2020.
+  + Hong Kong Ph.D. fellowship scheme, Research Grant Council 2017--2020.
   + Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
 <p></p>
 
