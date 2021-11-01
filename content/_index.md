@@ -2,7 +2,8 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Technology (HKUST) Business School. I am on the job market and will be available for interviews during the 2022 AEA/AFA Annual Meeting.
+I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Technology (HKUST) Business School. I am currently on the job market and expect to graduate in summer 2022.
+
 
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
 [comment]: <> (Blurred thick border)
