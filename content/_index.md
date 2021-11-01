@@ -62,7 +62,7 @@ We show that pollution increases the offering yields of municipal bonds, indicat
   + Junior Scholars Program, AREUEA 2021.
   + Doctoral Travel Grant, AFA 2020.
   + Hong Kong Ph.D. fellowship scheme, Research Grant Council 2017--2020.
-  + Gold Medal for Best All-round Performance, Indian Institute of Management Tiruchirappalli 2015.
+  + Gold Medal for Best All-Round Performance, Indian Institute of Management Tiruchirappalli 2015.
 <p></p>
 
 <hr class="hr1" />
