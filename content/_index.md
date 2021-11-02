@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Tec
 ## Working Papers
 
 
-### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Easier Access to Own Credit Report and Retail Mortgage Market [Job Market Paper]</span></a>
+### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and Retail Mortgage Market [Job Market Paper]</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
@@ -73,9 +73,14 @@ We show that pollution increases the offering yields of municipal bonds, indicat
   <div class="column2"><b>Prof. Abhiroop Mukherjee</b></div>
 </div>
 <div class="row">
-  <div class="column1">Chair Professor, Finance, HKUST</div>
-  <div class="column2">Liwei Huang Associate Professor of Business, Finance, HKUST</div>
+  <div class="column1">Chair Professor</div>
+  <div class="column2">Liwei Huang Associate Professor of Business</div>
 </div>
+<div class="row">
+  <div class="column1">Finance Department, HKUST</div>
+  <div class="column2">Finance Department, HKUST</div>
+</div>
+
 <div class="row">
   <div class="column1">&#9993; ubhattac@ust.hk</div>
   <div class="column2">&#9993; amukherjee@ust.hk</div>
@@ -87,8 +92,12 @@ We show that pollution increases the offering yields of municipal bonds, indicat
   <div class="column2"><b>Prof. Alminas Žaldokas</b></div>
 </div>
 <div class="row">
-  <div class="column1">Associate Professor, Economics, HKUST</div>
-  <div class="column2">Associate Professor, Finance, HKUST</div>
+  <div class="column1">Associate Professor</div>
+  <div class="column2">Associate Professor and Lee Heng Fellow</div>
+</div>
+<div class="row">
+  <div class="column1">Economics Department, HKUST</div>
+  <div class="column2">Finance Department, HKUST</div>
 </div>
 <div class="row">
   <div class="column1">&#9993; svisaria@ust.hk</div>
