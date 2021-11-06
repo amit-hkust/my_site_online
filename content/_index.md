@@ -13,11 +13,11 @@ I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Tec
 ## Working Papers
 
 
-### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and Retail Mortgage Market [Job Market Paper]</span></a>
+### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market [Job Market Paper]</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Borrowers may misestimate their probability of mortgage approval in the absence of precise signals. Credit reports, which contain signals of creditworthiness, became easily accessible for consumers since 2005 for the entire U.S., while it was already the case in seven states. A difference-in-differences strategy employing this change shows that pool quality of mortgage applicants improved as a result—approvals increased and subsequent delinquencies decreased. These findings are consistent with a mechanism where over-estimators exit and under-estimators enter the applicant pool, because easier access to credit reports reduces misestimation of one’s own probability of mortgage approval. Additional findings rule out supply-driven explanations.
+Borrowers may misestimate their probability of mortgage approval in the absence of precise signals of creditworthiness. Credit reports, which contain such signals, became easily accessible for all U.S. consumers since 2005, while it was already the case in seven states. A difference-in-differences strategy exploiting this change shows that pool quality of mortgage applicants improved as a result—approvals increased and subsequent delinquencies decreased. These findings are consistent with a mechanism where under-estimators enter the applicant pool and over-estimators drop out, because easier access to credit reports reduces misestimation of one’s own probability of mortgage approval. Additional findings rule out supply-driven explanations.
 </div>
 </details>
 
