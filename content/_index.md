@@ -42,7 +42,7 @@ Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020
 <hr class="hr2" />
 
 
-### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447"><span class=author>Daisy Huang]</a></span>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
