@@ -23,7 +23,7 @@ Borrowers may misestimate their probability of mortgage approval in the absence 
 
 Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, FMA Annual Meeting 2021 and 2020 Doctoral Consortium, AREUEA National Conference 2021, AFBC 2020.
 
-Coverage: The World Bank's All About Finance Blog (scheduled, Nov 8, 2021).
+Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>
 
 Best Ph.D. Disseration Awards: 15th Conference on Asia-Pacific Financial Markets, 11th Financial Markets and Corporate Governance Conference.
 <hr class="hr2" />
@@ -38,7 +38,7 @@ Trained undercover men and women posed as potential clients and visited all 65 l
 </div>
 </details>
    
-Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong>Bloomberg</a>
+Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>
 <hr class="hr2" />
 
 
