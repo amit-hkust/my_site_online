@@ -38,7 +38,7 @@ Trained undercover men and women posed as potential clients and visited all 65 l
 </div>
 </details>
    
-Financial Press Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>
+Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>
 <hr class="hr2" />
 
 
