@@ -10,6 +10,7 @@
 
     <title> {{.Site.Params.html_title}}</title>
      <!-- Load jquery -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
    <script>
    var ip;
@@ -34,10 +35,6 @@
            country = data.country;
            mobile = data.mobile;
         }
-    }) ();
-    
-    
-    src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -53,9 +50,8 @@
                      'dimension9': 'mobile'}  
       });
         gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
-    </script>
- 
- 
+    }) ();
+ </script>
    
    <!-- Global site tag (gtag.js) - Google Analytics New 
        gtag('config', 'UA-ID', {
