@@ -14,8 +14,7 @@
    var regionName;
    var country;
    var mobile;
-
-    (async() => {  
+   (async() => {  
        let data = await $.getJSON('http://ip-api.com/json/?fields=4927225');
        if (data) {
            ip = data.query;
@@ -27,14 +26,11 @@
            regionName = data.regionName;
            country = data.country;
            mobile = data.mobile;
-           // console.log(JSON.stringify(data, null, 2));
-       }
+        }
        window.dataLayer = window.dataLayer || [];
-
-   function gtag(){dataLayer.push(arguments);}
-
-   gtag('js', new Date());
-   gtag('config', 'G-MCH569NNFG', {
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MCH569NNFG', {
       'custom_map': {'dimension1': 'ip_visitor',
                      'dimension2': 'isp',
                      'dimension3': 'org',
@@ -45,12 +41,9 @@
                      'dimension8': 'country',
                      'dimension9': 'mobile'}  
       });
-    gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
-
-   }) ();
-   
-
-   </script>
+        gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
+    }) ();
+ </script>
    
    <!-- Global site tag (gtag.js) - Google Analytics New 
        gtag('config', 'UA-ID', {
