@@ -1,5 +1,4 @@
 <head>
-    
     <title> {{.Site.Params.html_title}}</title>
      <!-- Load jquery -->
    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
@@ -71,7 +70,14 @@
        <script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script> 
       
    -->   
-
+    <!-- Meta -->
+    <meta charset="utf-8">
+    {{- hugo.Generator -}}
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="{{ .Site.Params.meta_description }}">
+    {{- if .Site.Params.googleSiteVerify }}
+    <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
+    {{- end -}}
     
     <!-- CSS -->
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
