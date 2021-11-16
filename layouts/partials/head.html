@@ -34,6 +34,10 @@
            country = data.country;
            mobile = data.mobile;
         }
+    }) ();
+    </script>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG">
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -49,9 +53,9 @@
                      'dimension9': 'mobile'}  
       });
         gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
-    }) ();
- </script>
- <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
+    </script>
+ 
+ 
    
    <!-- Global site tag (gtag.js) - Google Analytics New 
        gtag('config', 'UA-ID', {
