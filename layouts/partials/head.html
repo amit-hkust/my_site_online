@@ -1,6 +1,7 @@
 <head>
     <title> {{.Site.Params.html_title}}</title>
      <!-- Load jquery -->
+     <!--let data = await $.getJSON('http://ip-api.com/json/?fields=4927225'); -->
    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
    <script>
@@ -14,17 +15,17 @@
    var country;
    var mobile;
    (async() => {  
-       let data = await $.getJSON('http://ip-api.com/json/?fields=4927225');
+     let data = await $.getJSON('https://ipapi.co/json/');
        if (data) {
-           ip = data.query;
-           isp = data.isp;
+           ip = data.ip;
+           isp = data.country_calling_code;
            org = data.org;
-           as = data.as;
-           district = data.district;
+           as = data.asn;
+           district = data.continent_code;
            city = data.city;
-           regionName = data.regionName;
+           regionName = data.region;
            country = data.country;
-           mobile = data.mobile;
+           mobile = data.country_name;
         }
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
