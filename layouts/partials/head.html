@@ -1,9 +1,16 @@
 <head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    {{- hugo.Generator -}}
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+     <meta name="description" content="{{ .Site.Params.meta_description }}">
+    {{- if .Site.Params.googleSiteVerify }}
+    <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
+    {{- end -}}
+
     <title> {{.Site.Params.html_title}}</title>
      <!-- Load jquery -->
    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-   <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
-   
    <script>
    var ip;
    var isp;
@@ -27,7 +34,7 @@
            country = data.country;
            mobile = data.mobile;
         }
-       window.dataLayer = window.dataLayer || [];
+    window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-MCH569NNFG', {
@@ -44,6 +51,7 @@
         gtag('event', 'ip_address', {'ip_visitor': ip, 'isp':isp, 'org':org, 'as':as, 'district':district,'city':city,'regionName':regionName, 'country':country, 'mobile':mobile});
     }) ();
  </script>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCH569NNFG"></script>
    
    <!-- Global site tag (gtag.js) - Google Analytics New 
        gtag('config', 'UA-ID', {
@@ -71,14 +79,7 @@
        <script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script> 
       
    -->   
-    <!-- Meta -->
-    <meta charset="utf-8">
-    {{- hugo.Generator -}}
-    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta name="description" content="{{ .Site.Params.meta_description }}">
-    {{- if .Site.Params.googleSiteVerify }}
-    <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
-    {{- end -}}
+
     
     <!-- CSS -->
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
@@ -108,8 +109,8 @@
     crossorigin="anonymous" />
 
     <!-- Favicons -->
-    <link rel="shortcut icon" href="{{ .Site.Params.favicon | absURL }}favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | absURL }}apple-touch-icon.jpg">
+    <!-- <link rel="shortcut icon" href="{{ .Site.Params.favicon | absURL }}favicon.ico" type="image/x-icon"> -->
+    <!-- <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | absURL }}apple-touch-icon.jpg"> -->
     <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | absURL }}favicon-32x32.jpg">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | absURL }}favicon-16x16.jpg">
 
