@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Tec
 ## Working Papers
 
 
-### <a href=https://bit.ly/2ZG2Ti7 target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market [Job Market Paper]</span></a>
+### <a href=files/Amit_CV.pdf target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market [Job Market Paper]</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
