@@ -21,7 +21,7 @@ Borrowers may misestimate their probability of mortgage approval in the absence 
 </div>
 </details>
 
-Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, FMA Annual Meeting 2021 and 2020 Doctoral Consortium, AREUEA National Conference 2021, AFBC 2020.
+Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, AREUEA National Conference 2021, FMA Annual Meeting 2021 and Doctoral Consortium 2020, AFBC 2020, MFA 2022.
 
 Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>
 
