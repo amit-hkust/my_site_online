@@ -25,7 +25,9 @@ Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020,
 
 Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>
 
-Best Ph.D. Disseration Awards: 15th Conference on Asia-Pacific Financial Markets, 11th Financial Markets and Corporate Governance Conference.
+Doctoral Grant: Midwest Finance Association 2022.
+
+Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th Financial Markets and Corporate Governance Conference.
 <hr class="hr2" />
 
 
