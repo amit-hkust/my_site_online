@@ -21,9 +21,9 @@ Borrowers may misestimate their probability of mortgage approval in the absence 
 </div>
 </details>
 
-Selected Presentations: University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, AREUEA National Conference 2021, FMA Annual Meeting 2021 and Doctoral Consortium 2020, AFBC 2020, MFA 2022.
+Selected Conference Presentations: The Ohio State University 2022 Annual PhD Conference on Real Estate and Housing, University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, AREUEA National Conference 2021, FMA Annual Meeting 2021 and Doctoral Consortium 2020, AFBC 2020, MFA 2022.
 
-Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>
+Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>.
 
 Doctoral Grant: Midwest Finance Association 2022.
 
@@ -40,7 +40,7 @@ Trained undercover men and women posed as potential clients and visited all 65 l
 </div>
 </details>
    
-Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>
+Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.
 <hr class="hr2" />
 
 
