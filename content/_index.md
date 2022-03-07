@@ -44,11 +44,12 @@ Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial
 <hr class="hr2" />
 
 
-### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+[comment]: <> (### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a>)
+### <span class=titlelink>Polluted Waters and Municipal Finance</span> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-We show that pollution increases the offering yields of municipal bonds, indicating increased risk. We establish this using a difference-in-differences design, comparing the bonds from U.S. counties revealed to contain per- and poly-fluoroalkyl substances (PFAS) in their drinking-water supplies with the bonds from neighboring, unpolluted, same-state counties. The increase was greater for riskier bonds characterized by repayment obligation, ex-ante debt burden, unrated issuance, maturity, and bankruptcy access. The resulting pollution-related investment needs and a reduction in public sector employment and expenditure likely underlie the risk. An instrumental variable-like method utilizing airports as a potential contamination source reaffirms the causal interpretation.
+Work in Progress.
 </div>
 </details>
 <hr class="hr1" />
