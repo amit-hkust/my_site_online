@@ -17,7 +17,7 @@ I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Tec
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Borrowers may misestimate their probability of mortgage approval in the absence of precise signals of creditworthiness. Credit reports, which contain such signals, became easily accessible for all U.S. consumers since 2005, while it was already the case in seven states. A difference-in-differences strategy exploiting this change shows that pool quality of mortgage applicants improved as a result—approvals increased and subsequent delinquencies decreased. These findings are consistent with a mechanism where under-estimators enter the applicant pool and over-estimators drop out, because easier access to credit reports reduces misestimation of one’s own probability of mortgage approval. Additional findings rule out supply-driven explanations.
+Borrowers may misestimate their probability of mortgage approval in the absence of precise signals of creditworthiness. Credit reports, which contain such signals, became easily accessible for all U.S. consumers since 2005, while it was already the case in seven states. A difference-in-differences strategy exploiting this change shows that pool quality of mortgage applicants improved as a result—approvals increased, whereas subsequent delinquencies decreased. These findings are consistent with a mechanism where under-estimators enter the applicant pool and over-estimators drop out, because easier access to credit reports reduces misestimation of one’s own probability of mortgage approval. Additional findings rule out supply-driven explanations.
 </div>
 </details>
 
