@@ -2,7 +2,7 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am a Ph.D. candidate in Finance at The Hong Kong University of Science and Technology (HKUST) Business School. I will join the Finance group in the Lee Kong Chian School of Business at Singapore Management University as Assistant Professor of Finance (tenure track) in summer of 2022.
+I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School. I am reachable at amitkumar@smu.edu.sg .
 
 
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
@@ -69,43 +69,3 @@ Work in Progress.
 <p></p>
 
 <hr class="hr1" />
-
-## References
-<div class="row">
-  <div class="column1"><b>Prof. Utpal Bhattacharya (Ph.D. Advisor)</b></div>
-  <div class="column2"><b>Prof. Abhiroop Mukherjee</b></div>
-</div>
-<div class="row">
-  <div class="column1">Chair Professor</div>
-  <div class="column2">Liwei Huang Associate Professor of Business</div>
-</div>
-<div class="row">
-  <div class="column1">Finance Department, HKUST</div>
-  <div class="column2">Finance Department, HKUST</div>
-</div>
-
-<div class="row">
-  <div class="column1">&#9993; ubhattac@ust.hk</div>
-  <div class="column2">&#9993; amukherjee@ust.hk</div>
-</div>
-
-&nbsp;
-<div class="row">
-  <div class="column1"><b>Prof. Sujata Visaria</b></div>
-  <div class="column2"><b>Prof. Alminas Žaldokas</b></div>
-</div>
-<div class="row">
-  <div class="column1">Associate Professor</div>
-  <div class="column2">Associate Professor and Lee Heng Fellow</div>
-</div>
-<div class="row">
-  <div class="column1">Economics Department, HKUST</div>
-  <div class="column2">Finance Department, HKUST</div>
-</div>
-<div class="row">
-  <div class="column1">&#9993; svisaria@ust.hk</div>
-  <div class="column2">&#9993; alminas@ust.hk</div>
-</div>
-<hr class="hr1" />
-
-

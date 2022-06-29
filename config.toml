@@ -51,17 +51,17 @@ lastmod = [":fileModTime", ":default"] #This sets last modification date to modi
 html_title = "Amit Kumar | PhD Fin. | HKUST"
 author = "Amit Kumar"
 copyright = ""
-meta_description = "Amit Kumar is a PhD student in Finance at HKUST. His research interest includes household finance, municipal finance, and banking."
+meta_description = "Amit Kumar is an Assistant Professor of Finance at Singapore Management University. His research interest includes household finance, municipal finance, and banking."
 sidebar_title = "Amit Kumar"
-sidebar_line1 = "Ph.D. Candidate in Finance, HKUST Business School"
-#sidebar_line2 = "Room 5067. Lee Shau Kee Building, HKUST. Clear Water Bay. Kowloon. Hong Kong SAR."
-#sidebar_line3 = "amit.kumar@connect.ust.hk"
+sidebar_line1 = "Assistant Professor of Finance"
+sidebar_line2 = "Singapore Management University"
+#sidebar_line3 = "amitkumar@smu.edu.sg"
 profilePicture = "images/1.jpg"
-profilePicture_alt = "Amit Kumar, PhD Finance, HKUST" 
+profilePicture_alt = "Amit Kumar | Assistant Professor of Finance at SMU"
 ssrn_email = "https://papers.ssrn.com/sol3/GetAuthorEmail.cfm?partid=2664500"
 url_cv = "files/Amit_CV.pdf"
 url_ssrn = "https://www.ssrn.com/author=2664500"
-keywords = "Amit Kumar HKUST, Amit Kumar PhD Finance"
+keywords = "Amit Kumar Assistant Professor of Finance, Amit Kumar SMU, Amit Kumar Finance"
 favicon = "images/"
 # example ["css/custom.css"]
 customCss = []
@@ -106,5 +106,5 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 #icon = "fas fa-envelope"
 #title = "e-mail"
-#url = "mailto:akumarac@connect.ust.hk"
+#url = "mailto:amitkumar@smu.edu.sg"
 

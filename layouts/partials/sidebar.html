@@ -3,16 +3,18 @@
         <div class="title">
             <br>
             <h1>{{ .Site.Params.sidebar_title }}</h1>
-            <h4>{{ .Site.Params.sidebar_line1 }}</h4>
+            <h4>{{ .Site.Params.sidebar_line1 }}<br>{{ .Site.Params.sidebar_line2 }}</h4>
+            <h4></h4>
             <img src="{{ .Site.Params.profilePicture | absURL }}" alt="{{ .Site.Params.profilePicture_alt }}">
             <br>
         </div>
-        <div class="description"><!--{{ .Site.Params.sidebar_line2}}
+        <!-- <div class="description">{{ .Site.Params.sidebar_line2}}
                   Twitter Cards <a href="{{.Site.Params.ssrn_email}}" target="_blank" title="Email" onclick="window.open(this.href,'','width=800,height=500');return false;"> Email</a> .
-            <br><img src="images/hkust.jpg" alt="Amit Kumar, PhD Finance, HKUST" width="50" height="50">-->
-        </div>
+            <br><img src="images/hkust.jpg" alt="Amit Kumar, PhD Finance, HKUST" width="50" height="50">
+        </div> -->
         
     </div>
+    <!--
     <ul class="social-links">
         {{ range $item := .Site.Params.socialIcons }}
             <li>
@@ -22,7 +24,5 @@
             </li>
         {{ end }}
     </ul>
-    
-    
-    
+    -->
     </div>
