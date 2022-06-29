@@ -34,7 +34,7 @@ pygmentsCodefencesGuessSyntax = true
   identifier = "home"
   weight = 100
   url = "/"
-  title= "Amit Kumar, PhD Finance, HKUST" #title for menu items
+  title= "Amit Kumar, Assistant Professor of Finance, SMU" #title for menu items
 
 [sitemap]
  changefreq = "weekly"
