@@ -48,7 +48,7 @@ lastmod = [":fileModTime", ":default"] #This sets last modification date to modi
 [params]
 #googleAnalytics = "UA-188161444-1"
 #googleMeasurementID = "G-MCH569NNFG"
-html_title = "Amit Kumar, AP Finance, SMU"
+html_title = "Amit Kumar, Assistant Professor of Finance, SMU"
 author = "Amit Kumar"
 copyright = ""
 meta_description = "Amit Kumar is an Assistant Professor of Finance at Singapore Management University. His research interest includes household finance, municipal finance, and banking."
