@@ -4,12 +4,15 @@ author = "Amit Kumar"
 ## About Me
 I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School. I am reachable at amitkumar@smu.edu.sg .
 
-
+<!--
 [comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
 [comment]: <> (Blurred thick border)
+[comment]: <> ([[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853))
+-->
+
 <hr class="hr1" /> 
 
-[comment]: <> ([[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853))
+
 ## Working Papers
 
 
