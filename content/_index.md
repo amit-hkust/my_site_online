@@ -14,11 +14,22 @@ I am reachable at amitkumar@smu.edu.sg . The link to my official webpage is here
 
 <hr class="hr1" /> 
 
+## Publications
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice</span></a> <span class=author>[Joint with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bm.ust.hk/econ/faculty-and-staff/directory/87 target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
+Forthcoming, The Journal of Finance
+<p></p>
+<details><summary>Abstract</summary>
+<div class=conference>
+We arranged for trained undercover men and women to pose as potential clients and visit all 65 local financial advisory firms in Hong Kong. At financial planning firms, but not at securities firms, women were more likely than men to receive advice to buy only individual or only local securities. Women clients who signaled that they were highly confident, highly risk tolerant or had a domestic outlook, were especially likely to receive this suboptimal advice. Our theoretical model explains these patterns as the result of statistical discrimination interacting with advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
+</div>
+</details>
+   
+Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.
+<hr class="hr1" />
+
 
 ## Working Papers
-
-
-### <a href=files/Amit_credit_report.pdf target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market [Job Market Paper]</span></a>
+### <a href=files/Amit_credit_report.pdf target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
@@ -36,21 +47,8 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 <hr class="hr2" />
 
 
-### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice</span></a> <span class=author>[Joint with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bm.ust.hk/econ/faculty-and-staff/directory/87 target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
-<span class  = "randr">Revise and Resubmit at The Journal of Finance</span>
-<p></p>
-<details><summary>Abstract</summary>
-<div class=conference>
-Trained undercover men and women posed as potential clients and visited all 65 local financial advisory firms in Hong Kong. We find that women are more likely than men to receive advice to buy only individual or only local securities. This effect is significant for financial planners, but not for securities firms. Women who signal that they are highly confident, highly risk tolerant, or have a domestic outlook, are especially likely to receive suboptimal advice. Our theoretical model interprets these patterns as an interaction between statistical discrimination and advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
-</div>
-</details>
-   
-Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.
-<hr class="hr2" />
-
-
 [comment]: <> (### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a>)
-### <span class=titlelink>Polluted Waters and Municipal Finance</span> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+### <span class=titlelink>A Toxic Inheritance: Municipal Consequences of PFAS Contamination Discovery</span> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
@@ -61,7 +59,7 @@ Work in Progress.
 
 
 ## Research Grant
-##### HKUST Office of the Vice President for Research and Development Grant for the project entitled, “How does on-campus residence shapes students? An empirical investigation with lessons for programme design” [Team grant, with Kevin Tam and Sujata Visaria]
+##### 2022: Ministry Of Education (MOE) Academic Research Fund (AcRF) Tier 1
 <p></p>
 
 <hr class="hr1" />
