@@ -16,7 +16,7 @@ I am reachable at amitkumar@smu.edu.sg . The link to my official webpage is here
 
 ## Publications
 ### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice</span></a> <span class=author>[Joint with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bm.ust.hk/econ/faculty-and-staff/directory/87 target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
-Forthcoming, The Journal of Finance
+Forthcoming, Journal of Finance
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
