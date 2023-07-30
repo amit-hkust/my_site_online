@@ -46,7 +46,7 @@ Doctoral Grant: Midwest Finance Association 2022.
 Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th Financial Markets and Corporate Governance Conference.
 <hr class="hr2" />
 
-
+<!--
 [comment]: <> (### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a>)
 ### <span class=titlelink>A Toxic Inheritance: Municipal Consequences of PFAS Contamination Discovery</span> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
@@ -55,6 +55,7 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 Work in Progress.
 </div>
 </details>
+-->
 <hr class="hr1" />
 
 
