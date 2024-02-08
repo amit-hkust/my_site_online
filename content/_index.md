@@ -2,21 +2,14 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School. 
+I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School. I am reachable at amitkumar@smu.edu.sg . The link to my  webpage at university's website is here:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>.
 
-I am reachable at amitkumar@smu.edu.sg . The link to my official webpage is here:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>.
 
-<!--
-[comment]: <> (## SSRN [[Link]](https://www.ssrn.com/author=2664500))
-[comment]: <> (Blurred thick border)
-[comment]: <> ([[View at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853))
--->
 
-<hr class="hr1" /> 
 
 ## Publications
 ### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671377" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>[Joint with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bm.ust.hk/econ/faculty-and-staff/directory/87 target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://af.polyu.edu.hk/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
-Forthcoming, Journal of Finance
+<div class=p2>Forthcoming, Journal of Finance</div>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
@@ -24,8 +17,8 @@ We arranged for trained undercover men and women to pose as potential clients an
 </div>
 </details>
    
-Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.
-<hr class="hr1" />
+<div class=p2>Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.</div>
+
 
 
 ## Working Papers
@@ -37,33 +30,32 @@ Borrowers may misestimate their probability of mortgage approval in the absence 
 </div>
 </details>
 
-Selected Conference Presentations: The Ohio State University 2022 Annual PhD Conference on Real Estate and Housing, University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, AREUEA National Conference 2021, FMA Annual Meeting 2021 and Doctoral Consortium 2020, AFBC 2020, MFA 2022.
+<div class=p2>Selected Conference Presentations: The Ohio State University 2022 Annual PhD Conference on Real Estate and Housing, University of Texas Austin Ph.D. Student Symposium 2020, AFA Ph.D. Poster Session 2021, ABFER 2021, AREUEA National Conference 2021, FMA Annual Meeting 2021 and Doctoral Consortium 2020, AFBC 2020, MFA 2022.
 
 Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance/know-thyself-access-own-credit-report-and-retail-mortgage-market target="_blank">All About Finance Blog</a>.
 
 Doctoral Grant: Midwest Finance Association 2022.
 
 Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th Financial Markets and Corporate Governance Conference.
-<hr class="hr2" />
+</div>
 
-<!--
-[comment]: <> (### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Polluted Waters and Municipal Finance</span></a>)
-### <span class=titlelink>A Toxic Inheritance: Municipal Consequences of PFAS Contamination Discovery</span> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Municipal and Economic Consequences of PFAS Contamination Discovery</span></a> <span class=author>[Joint with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Work in Progress.
+We show that discovery of contamination by pollutants that are unmonitored and unregulated adversely affects local municipal finances and economic conditions. We causally document a 9-basis-points increase in primary market yields of municipal bonds from the counties where per- and polyfluoroalkyl substances (PFAS) contamination was discovered for the first time, vis-à-vis the bonds from bordering, uncontaminated, same-state counties. The yields increased more for riskier bonds. We link the increased yields to a reduction in allocation by mutual funds and banks in the municipal bonds from the affected counties. These counties subsequently experienced heightened out-migration and depressed public expenditure and employment.
 </div>
 </details>
--->
-<hr class="hr1" />
+<div class=p2>Conference Presentations:  North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
+</div>
+
 
 
 ## Research Grant
-##### 2022: Ministry Of Education (MOE) Academic Research Fund (AcRF) Tier 1
-<p></p>
++ 2022: Ministry Of Education (MOE) Academic Research Fund (AcRF) Tier 1
++ 2023: Ministry Of Education (MOE) Academic Research Fund (AcRF) Tier 1
 
-<hr class="hr1" />
 
 ## Academic Awards and Fellowships
   + Junior Scholars Program, AREUEA 2021.
@@ -72,4 +64,4 @@ Work in Progress.
   + Gold Medal for Best All-Round Performance, Indian Institute of Management Tiruchirappalli 2015.
 <p></p>
 
-<hr class="hr1" />
+
