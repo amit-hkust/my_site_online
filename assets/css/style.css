@@ -15,8 +15,8 @@
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
-    --deepblue-color:#02699A;
-    --less-blue:#25495c;
+    --lessblue-color:#02699A;/*rgb(2,105,154)*/
+    --deep-blue:#25495c;/*rgb(37,73,92)*/
     --my-text-color: rgb(60,60,60); /*main color of text for entire webpage. default: #5a5a5a*/
     --paper-title-darkcolor: rgb(45,45,45); /*main color of text for entire webpage. default: #5a5a5a*/
     scroll-padding-top: 100px;
@@ -55,107 +55,100 @@ body {
 
 p {
     font-size: 18px; /*Amit modified here. Abstract font size*/
-    margin-top: 5px;
-    padding-bottom: 0px;
+    margin-top: 3px;
+    margin-bottom:3px;
+    padding-top:3px;
+    padding-bottom: 3px;
     /*color: #222222;*/
     color: var(--my-text-color);
     font-weight:normal;
     text-align: justify;
     text-justify: inter-word;
-    padding-left: 5px; /*The lines below titles are indented by 5 px*/
+    padding-left: 0px; /*The lines below titles are indented by 5 px*/
 }
 
-h3 { /*Setting for "PAPER TITLES" and titles such as "Research Interest" */
+.p2 { /*for indented paragraphs*/
+    font-size: 18px; 
+    margin-top: 3px;
+    margin-left: 15px;
+    margin-bottom:3px;  
+    padding-bottom: 3px;
+    /*color: #222222;*/
+    color: var(--my-text-color);
+    font-weight:normal;
+    text-align: justify;
+    text-justify: inter-word;    
+}    
+
+h1 { /*This is deep blue AMIT KUMAR in sidebar */
+    color:var(--lessblue-color);
+    font-variant: small-caps;
+    font-size:28px;
+    margin-bottom: 0.1rem;
+    margin-top:-0.6rem;
+}
+
+h2 { /*Deep blue headings: ABOUT ME, Publications, Working Papers*/
+    margin-top: 20px;
+    padding-top: 40px;
+    margin-bottom: 5px;
+    color:var(--lessblue-color);
+    font-variant: small-caps;
+    font-size:24px;
+    
+} 
+
+h3 { /*"PAPER TITLES" */
     /* color:#524f4f;*/
      font-size:18px;
      margin-bottom: 0px;
      margin-top:25px;
-     margin-left: 0px;
+     margin-left: 5px;
      padding-left: 0px;
      font-weight: bold;
-     color: var(--less-blue); /* Headings should be little darker than rest of the font*/
+     color: var(--deep-blue); /* Headings should be little darker than rest of the font*/
  }
 
- h5 { /*Setting for LINES BELOW TITLES such as "Research Interest" etc. Formatted same as <p> */
-    font-size: 18px; 
-    /*line-height: 1.5; controls line spacing*/
-    margin-top: 2px;
-    margin-bottom: 1px;
-    font-weight: normal;
-    text-align: justify;
-    text-justify: inter-word;
-    padding-left: 4px; /*The lines below titles are indented by 3 px*/
+
+/*abstracts*/
+details {
+    /*user-select: text;*/
+    margin-bottom:0px;
+ }
+
+details>summary span.icon {
+    width: 24px;
+    height: 24px;
+    transition: all 0.3s;
+    margin-left: 15px;
 }
+
+summary {
+    cursor: pointer;
+    font-weight: normal;
+    margin-left: 15px;
+    }
+
+summary::-webkit-details-marker {
+    display: none;
+    margin-left: 15px;
+}
+/*abstracts*/
 
 .conference { /*Conference Class. Amit modified here*/
     /*line-height: 1.5; /*controls line spacing*/
     font-size: 18px; 
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left:5px; /*either same or larger than left margin for <p>*/
+    margin-left:2%; /*either same or larger than left margin for <p>*/
     /*color: #5d5c5c; */ /* Change when need to alter font color inside confernece shaded areas */
-    background-color: #eeebeb; /* light background*/
+    background-color: #eeebeb; /* light background RGB(238,235,235) */
     padding-top:10px;
     padding-bottom:10px;
     padding-left:15px;
     padding-right:15px;
     text-align: justify;
     text-justify: inter-word;
-    }
-
-
-.author { /*Author Class. Amit modified here*/
-    color:var(--less-blue);
-    font-weight: normal;
-}
-
-.randr { /*Class for writing R&R below Paper Titles #923324*/
-        line-height: 1; /*controls line spacing of br ans all lines in <p>*/
-        font-size: 18px; 
-        margin-top: -5px;
-        margin-bottom: 0px;
-        padding-top:-5px;
-        padding-bottom: 0px;
-        font-style: oblique; /*R&R text  in italics*/
-        font-weight: bold;
-        color:var(--less-blue);
-    }
-
-a { /*This controls all link attributes.*/
-    text-decoration: underline;
-    /*text-decoration: none;*/
-    font-weight: normal;
-    color:var(--less-blue);
-}
-
-
-.titlelink { /*Class for putting download links within paper heading . Amit modified here*/
-    color:var(--less-blue);
-    font-weight: bold;
-    text-decoration: none;
-} 
-
-
-.hr1 { /*Thick Shadowy Horizontal Line class for  to DELIMIT MAIN SECTIONS */
-    border: 0;
-    height: 15px;
-    box-shadow: inset 0px 11px 12px -5px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
-    /* color: var(--border-color); /* Set the hr color */
-    /*background-color: var(--border-color);*/
-    margin-bottom:30px;
-    margin-top:30px;
-}
-
-.hr2 { /*horizontal line class for thin lines below each paper*/
-    border: 0;
-    height: 1px;
-    color: var(--border-color); /* Set the hr color */
-    background-color: var(--border-color);
-    width: 45%;
-    margin-left: 5px;
-    margin-right: auto;
-    margin-bottom:40px;
-    margin-top:10px;
 }
 
 h4 { /*For text below name on sidebar */
@@ -170,45 +163,72 @@ h4 { /*For text below name on sidebar */
     padding-right: 10px;
 }
 
-h1 { /*This is deep blue AMIT KUMAR in sidebar */
-    color:var(--deepblue-color);
-    font-variant: small-caps;
-    font-size:28px;
-    margin-bottom: 0.1rem;
-    margin-top:-0.6rem;
+h5 { /*Setting for LINES BELOW TITLES such as "Research Interest" etc. Formatted same as <p> */
+    font-size: 18px; 
+    /*line-height: 1.5; controls line spacing*/
+    margin-top: 2px;
+    margin-bottom: 1px;
+    font-weight: normal;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 4px;
 }
 
-h2 { /*Deep blue headings: ABOUT ME, Working Papers, Other Information etc.*/
-    margin-top: 20px;
-    color:var(--deepblue-color);
-    font-variant: small-caps;
-    font-size:24px;
-    margin-bottom: 10px;
+.author { /*Author Class. Amit modified here*/
+    color:var(--deep-blue);
+    font-weight: normal;
+}
+
+.randr { /*Class for writing R&R below Paper Titles #923324*/
+        line-height: 1; /*controls line spacing of br ans all lines in <p>*/
+        font-size: 18px; 
+        margin-top: -5px;
+        margin-bottom: 0px;
+        padding-top:-5px;
+        padding-bottom: 0px;
+        font-style: oblique; /*R&R text  in italics*/
+        font-weight: bold;
+        color:var(--deep-blue);
+    }
+
+a { /*This controls all link attributes.*/
+    text-decoration: underline;
+    /*text-decoration: none;*/
+    font-weight: normal;
+    color:var(--deep-blue);
+}
+
+
+.titlelink { /*Class for putting download links within paper heading . Amit modified here*/
+    color:var(--deep-blue);
+    font-weight: bold;
+    text-decoration: none;
 } 
 
-/*collapsible abstracts, start*/
-    details {
-        user-select: text;
-        margin-bottom:5px;
-    }
-  
-    details>summary span.icon {
-        width: 24px;
-        height: 24px;
-        transition: all 0.3s;
-        margin-left: auto;
-    }
-  
-    summary {
-        cursor: pointer;
-        font-weight: bold;
-    }
-  
-    summary::-webkit-details-marker {
-        display: none;
-    }
-/*collapsible abstracts, start*/
 
+.hr1 { /*Thick Shadowy Horizontal Line class for  to DELIMIT MAIN SECTIONS */
+    border: 0;
+    height: 15px;
+    box-shadow: inset 0px 12px 12px -8px var(--border-color); /*offset-x | offset-y | blur-radius | spread-radius | color*/
+    /* color: var(--border-color); /* Set the hr color */
+    /*background-color: var(--border-color);*/
+    margin-top:15px;
+    margin-bottom:30px;
+    padding-top:15px;
+    padding-bottom:3px;
+}
+
+.hr2 { /*horizontal line class for thin lines below each paper*/
+    border: 0;
+    height: 1px;
+    color: var(--border-color); /* Set the hr color */
+    background-color: var(--border-color);
+    width: 45%;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-bottom:40px;
+    margin-top:10px;
+}
 
 ul { /* Font control for unordered list*/
     margin-top: 0px;
@@ -309,7 +329,7 @@ a:visited {
 
 a:hover,
 a:active {
-    color:var(--deepblue-color);
+    color:var(--lessblue-color);
 }
 
 
@@ -965,7 +985,7 @@ a.btn {
     text-decoration: none;
     cursor: pointer;
     border: 1px solid var(--border-color);
-    background-color: var(--deepblue-color); 
+    background-color: var(--lessblue-color); 
     white-space: nowrap;
     font-style: normal;
     font-weight: bold;
