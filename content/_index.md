@@ -47,7 +47,8 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 We show that discovery of contamination by pollutants that are unmonitored and unregulated adversely affects local municipal finances and economic conditions. We causally document a 9-basis-points increase in primary market yields of municipal bonds from the counties where per- and polyfluoroalkyl substances (PFAS) contamination was discovered for the first time, vis-à-vis the bonds from bordering, uncontaminated, same-state counties. The yields increased more for riskier bonds. We link the increased yields to a reduction in allocation by mutual funds and banks in the municipal bonds from the affected counties. These counties subsequently experienced heightened out-migration and depressed public expenditure and employment.
 </div>
 </details>
-<div class=p2>Conference Presentations:  North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
+<div class=p2>Conference Presentations: AFA 2025*, North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
+<br>* <i>scheduled</i>
 </div>
 
 

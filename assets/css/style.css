@@ -127,6 +127,7 @@ summary {
     cursor: pointer;
     font-weight: normal;
     margin-left: 15px;
+    font-weight: bold;
     }
 
 summary::-webkit-details-marker {
