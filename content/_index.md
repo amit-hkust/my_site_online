@@ -13,7 +13,7 @@ I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Sin
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-We arranged for trained undercover men and women to pose as potential clients and visit all 65 local financial advisory firms in Hong Kong. At financial planning firms, but not at securities firms, women were more likely than men to receive advice to buy only individual or only local securities. Women clients who signaled that they were highly confident, highly risk tolerant or had a domestic outlook, were especially likely to receive this suboptimal advice. Our theoretical model explains these patterns as the result of statistical discrimination interacting with advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
+We arranged for trained undercover men and women to pose as potential clients and visit all 65 local financial advisory firms in Hong Kong. At financial planning firms, but not at securities firms, women were more likely than men to receive advice to buy only individual or only local securities. Female clients who signaled that they were highly confident, highly risk tolerant or had a domestic outlook, were especially likely to receive this suboptimal advice. Our theoretical model explains these patterns as the result of statistical discrimination interacting with advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
 </div>
 </details>
    
