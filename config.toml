@@ -61,6 +61,7 @@ profilePicture_alt = "Amit Kumar | Assistant Professor of Finance at SMU"
 ssrn_email = "https://papers.ssrn.com/sol3/GetAuthorEmail.cfm?partid=2664500"
 url_cv = "files/Amit_CV.pdf"
 url_ssrn = "https://www.ssrn.com/author=2664500"
+url_google = "https://scholar.google.com/citations?hl=en&user=8KMdgVcAAAAJ"
 keywords = "Amit Kumar Assistant Professor of Finance, Amit Kumar SMU, Amit Kumar Finance"
 favicon = "images/"
 # example ["css/custom.css"]
