@@ -22,7 +22,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <span class=titlelink>Do Debt Collection Restrictions Hurt Hospitals?</span> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://www.lynnwang02.com/ target=_blank><span class=author>Lynn Linghuan Wang.]</span></a>
+### <span class=titlelink>Do Debt Collection Restrictions Hurt Hospitals?</span> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://www.lynnwang02.com/ target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
