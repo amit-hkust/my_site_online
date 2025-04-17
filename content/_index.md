@@ -46,11 +46,11 @@ Hazardous yet previously unmonitored and unregulated, per- and polyfluoroalkyl s
 </div>
 <br>
 
-### <a href=files/Amit_credit_report.pdf target="_blank"><span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market</span></a>
+### <span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market</span>
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Borrowers may misestimate their probability of mortgage approval in the absence of precise signals of creditworthiness. Credit reports, which contain such signals, became easily accessible for all U.S. consumers since 2005, while it was already the case in seven states. A difference-in-differences strategy exploiting this change shows that pool quality of mortgage applicants improved as a result—approvals increased, whereas subsequent delinquencies decreased. These findings are consistent with a mechanism where under-estimators enter the applicant pool and over-estimators drop out, because easier access to credit reports reduces misestimation of one’s own probability of mortgage approval. Additional findings rule out supply-driven explanations.
+Seven U.S. states granted consumers easier access to credit report during the 1990s, a policy extended nationwide in 2005. Using this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, evident in higher approval rates, fewer delinquencies, and fewer applications. Furthermore, credit history-based rejections declined more than debt-to-income ratio-based rejections. A theoretical model with costly applications and rejections explains these effects as resulting from reduced probability of potential borrowers misjudging their creditworthiness and approval probability. Overall, improved access to credit reports for consumers reduces credit market imperfections.
 </div>
 </details>
 
