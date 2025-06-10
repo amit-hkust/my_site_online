@@ -50,7 +50,7 @@ Hazardous yet previously unmonitored and unregulated, per- and polyfluoroalkyl s
 <p></p>
 <details><summary>Abstract</summary>
 <div class=conference>
-Seven U.S. states granted consumers easier access to credit report during the 1990s, a policy extended nationwide in 2005. Using this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, evident in higher approval rates, fewer delinquencies, and fewer applications. Furthermore, credit history-based rejections declined more than debt-to-income ratio-based rejections. A theoretical model with costly applications and rejections explains these effects as resulting from reduced probability of potential borrowers misjudging their creditworthiness and approval probability. Overall, improved access to credit reports for consumers reduces credit market imperfections.
+During the 1990s, seven U.S. states granted consumers easier access to credit reports, a policy extended nationwide in 2005. Leveraging this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, evident in higher approval rates but lower applications and defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, increasing the approvals. A theoretical model with costly applications and rejections attributes these patterns to a reduction in the probability of potential borrowers misjudging their creditworthiness.  Overall, misjudging one’s creditworthiness poses a barrier to sound household financial decisions.
 </div>
 </details>
 
