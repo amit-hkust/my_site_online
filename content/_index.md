@@ -46,7 +46,7 @@ Hazardous yet previously unmonitored and unregulated, per- and polyfluoroalkyl s
 </div>
 <br>
 
-### <span class=titlelink>Know Thyself: Access to Own Credit Report and The Retail Mortgage Market</span> [Job Market Paper]
+### <span class=titlelink>Know Thyself: Consumer Access to Credit Reports and The Retail Mortgage Market</span> [Job Market Paper]
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
