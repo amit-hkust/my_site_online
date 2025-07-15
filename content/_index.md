@@ -22,7 +22,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <span class=titlelink>Do Debt Collection Restrictions Hurt Hospitals?</span> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://www.lynnwang02.com/ target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
+### <span class=titlelink>Do Debt Collection Restrictions Hurt Hospitals?</span> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
@@ -46,7 +46,7 @@ Hazardous yet previously unmonitored and unregulated, per- and polyfluoroalkyl s
 </div>
 <br>
 
-### <span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span> [Job Market Paper]
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [Job Market Paper]
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
