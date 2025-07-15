@@ -46,11 +46,11 @@ Hazardous yet previously unmonitored and unregulated, per- and polyfluoroalkyl s
 </div>
 <br>
 
-### <span class=titlelink>Know Thyself: Consumer Access to Credit Reports and The Retail Mortgage Market</span> [Job Market Paper]
+### <span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span> [Job Market Paper]
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-During the 1990s, seven U.S. states granted consumers easier access to credit reports, a policy extended nationwide in 2005. Leveraging this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, evident in higher approval rates but lower applications and defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, increasing the approvals. A theoretical model with costly applications and rejections attributes these patterns to a reduction in the probability of potential borrowers misjudging their creditworthiness.  Overall, misjudging one’s creditworthiness poses a barrier to sound household financial decisions.
+During the 1990s, seven U.S. states expanded consumer access to credit reports, a policy federally extended in 2005. Leveraging this nationwide extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, as reflected in higher approval rates and fewer applications and defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, contributing to higher approvals. In my theoretical model, the pool improves because credit reports enhance potential borrowers’ self-assessment of creditworthiness, leading to fewer suboptimal application decisions. Overall, expanding consumer access to creditworthiness information facilitates sound financial decision-making.
 </div>
 </details>
 
