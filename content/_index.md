@@ -50,7 +50,7 @@ Used in industrial and consumer products since the 1940s, per- and polyfluoroalk
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Seven U.S. states enhanced consumer access to credit reports during the 1990s—a policy extended nationwide by federal law in 2005. Leveraging this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, as reflected in higher approval rates and fewer defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, contributing to higher approvals. In my theoretical model, the pool improves because credit reports enhance potential borrowers' self-assessment of creditworthiness, leading to fewer suboptimal application decisions. Overall, expanding consumer access to creditworthiness information facilitates sound financial decision-making.
+Seven U.S. states enhanced consumer access to credit reports during the 1990s—a policy extended nationwide by federal law in 2005. Leveraging this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, as reflected in higher approval ratios and fewer defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, contributing to higher approvals. In my theoretical model, the pool improves because credit reports enhance potential borrowers' self-assessment of creditworthiness, leading to fewer suboptimal application decisions. Overall, expanding consumer access to creditworthiness information facilitates sound financial decision-making.
 </div>
 </details>
 
