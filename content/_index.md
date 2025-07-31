@@ -26,19 +26,19 @@ We arranged for trained undercover men and women to pose as potential clients an
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Tighter regulations on debt collections, though intended to protect consumers from predatory practices, may disrupt industries to which consumer debts are owed. Using a paired-county stacked difference-in-differences design, we show that hospitals in border counties of states tightening the regulations are adversely affected than those in border counties of neighboring states without such changes. Financial liabilities, bad debt write-offs, and borrowing costs of affected hospitals increase, whereas revenues and profitability fall. They respond by lowering employment, investment, and patient care. Moreover, they curtail charity care for uninsured patients, reducing access to healthcare for a population vulnerable to incurring medical debt.
+Tighter regulations on consumer debt collectors, although intended to curb predatory practices, may disrupt industries to which such debts are owed. Using a paired-county stacked difference-in-differences design, we show that these regulations adversely affect hospitals. While hospital patient volume remains unchanged, their account receivables, liabilities, and profitability deteriorate, with stronger effects for ex-ante higher financial liability and debt collector density. Hospitals respond by reducing capacity, employment, and care quality, and by steering patients to high-cost procedures. Additionally, non-profit hospitals reduce charity care for uninsured patients. Overall, ignoring spillovers of consumer financial protection laws on non-financial sectors may overstate their benefits.
 </div>
 </details>
-<div class=p2>[Draft Available Soon]
+<div class=p2>Conference Presentations: University of Washington
 </div>
 <br>
 
 
-### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Municipal and Economic Consequences of PFAS Contamination Discovery</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>PFAS Contamination Discovery, Household Flight, and Consequences for Municipal Finance</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Used in industrial and consumer products since the 1940s, per- and polyfluoroalkyl substances (PFAS) are now recognized as hazardous but remained unregulated under U.S. drinking water standards until 2024. Using a paired-county difference-in-differences design around the 2016 discovery of drinking water PFAS contamination following the first-ever nationwide testing, we show that contaminated counties experienced adverse municipal and economic outcomes. Municipal bond offering yields rose, while municipal revenues, taxes, employment, and expenditures declined. These effects arise from increased within-state household outmigration, which affected tradable industries—raising wages, reducing job creation, and increasing firm closures—and ultimately led to higher overall unemployment.
+Widely manufactured since the 1940s, hazardous per- and polyfluoroalkyl substances (PFAS) remained unregulated under U.S. water standards until 2024. Using a paired-county difference-in-differences design around the 2016 discovery of drinking water PFAS contamination following first-ever nationwide testing, we document that contaminated counties experienced adverse municipal and economic outcomes. Municipal bond offering yields rose, while municipal revenues, taxes, and expenditures declined. These resulted from increased within-state household outmigration, affecting tradable industries---raising wages, reducing job creation, and increasing firm closures---and ultimately raising overall unemployment. We highlight a novel household flight channel through which real shocks propagate to municipal bond markets.
 </div>
 </details>
 <div class=p2>Conference Presentations: AFA 2025, MFA 2025, North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
