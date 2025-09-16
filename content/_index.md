@@ -30,7 +30,7 @@ Tighter regulations on consumer debt collectors, although intended to curb preda
 </div>
 </details>
 <div class=p2>Presentations: University of Washington, Arizona State University*, Georgetown University*, Cornell University*, Boston University*, University of Iowa*, University of Georgia*
-* upcoming
+<br>* upcoming
 </div>
 <br>
 
