@@ -29,7 +29,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 Tighter regulations on consumer debt collectors, although intended to curb predatory practices, may disrupt industries to which such debts are owed. Using a paired-county stacked difference-in-differences design, we show that these regulations adversely affect hospitals. While hospital patient volume remains unchanged, their account receivables, liabilities, and profitability deteriorate, with stronger effects for ex-ante higher financial liability and debt collector density. Consequently, hospitals reduce capacity, employment, and care quality, and steer patients to high-cost procedures. Additionally, non-profit hospitals reduce charity care for uninsured patients. Overall, ignoring spillovers of consumer financial protection laws on non-financial sectors may overstate their benefits.
 </div>
 </details>
-<div class=p2>Presentations: University of Washington, Arizona State University*, Georgetown University*, Cornell University*, Boston University*, University of Iowa*, University of Georgia*
+<div class=p2>Presentations: University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa*, University of Georgia*, and georgia Institute of Technology*.
 <br>* upcoming
 </div>
 <br>
