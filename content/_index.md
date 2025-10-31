@@ -42,7 +42,7 @@ Tighter regulations on consumer debt collectors, although intended to curb preda
 Using the staggered rollout of the Secure Communities program as shocks to undocumented labor supply, we show that the non-tradable and construction sectors in affected counties experienced higher wages, formal employment, and firm closures—indicating that firms previously relied on undocumented workers and subsequently substituted them with costlier formal labor. Small business-level data reveal that rising formal employment and closures were stronger among unbanked firms. Even among firms with banking relationships, those facing ex-ante weaker local bank monitoring exhibited stronger effects. Overall, these patterns suggest a deputization-like effect of bank screening and monitoring in deterring borrowers from employing undocumented workers.
 </div>
 </details>
-<div class=p2>Presentations: FMA Annual Meeting 2025 New Ideas Session.
+<div class=p2>Presentations: FMA Annual Meeting 2025 New Ideas Session, Asia-Pacific Corporate Finance Online Workshop.
 </div>
 <br>
 
