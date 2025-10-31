@@ -35,6 +35,17 @@ Tighter regulations on consumer debt collectors, although intended to curb preda
 <br>
 
 
+### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers: Immigration Enforcement Impacts on Small Businesses And The Role of Bank Monitoring</span></a> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu]</span></a>
+<p></p>
+<details open><summary>Abstract</summary>
+<div class=conference>
+Using the staggered rollout of the Secure Communities program as shocks to undocumented labor supply, we show that the non-tradable and construction sectors in affected counties experienced higher wages, formal employment, and firm closures—indicating that firms previously relied on undocumented workers and subsequently substituted them with costlier formal labor. Small business-level data reveal that rising formal employment and closures were stronger among unbanked firms. Even among firms with banking relationships, those facing ex-ante weaker local bank monitoring exhibited stronger effects. Overall, these patterns suggest a deputization-like effect of bank screening and monitoring in deterring borrowers from employing undocumented workers.
+</div>
+</details>
+<div class=p2>Presentations: FMA Annual Meeting 2025 New Ideas Session.
+</div>
+<br>
+
 ### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>PFAS Contamination Discovery, Household Flight, and Consequences for Municipal Finance</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details open><summary>Abstract</summary>
