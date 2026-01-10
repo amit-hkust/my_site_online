@@ -29,7 +29,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 Tighter regulations on consumer debt collectors, although intended to curb predatory practices, may disrupt industries to which such debts are owed. Using a paired-county stacked difference-in-differences design, we show that these regulations adversely affect hospitals. While hospital patient volume remains unchanged, their accounts receivable, liabilities, and profitability deteriorate, with stronger effects for ex-ante higher financial liability and debt collector density. Consequently, hospitals reduce capacity, employment, and care quality, and steer patients to high-cost procedures. Additionally, non-profit hospitals reduce charity care for uninsured patients. Overall, ignoring spillovers of consumer financial protection laws on non-financial sectors may overstate their benefits.
 </div>
 </details>
-<div class=p2>Presentations: University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa, University of Georgia*, and Georgia Institute of Technology*.
+<div class=p2>Presentations: MFA 2026*, 2nd Annual Conference on the Economics and Finance of Healthcare and Medicine at WashU Olin Business School*, University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa, University of Georgia, and Georgia Institute of Technology.
 <br>* upcoming
 </div>
 <br>
@@ -42,7 +42,7 @@ Tighter regulations on consumer debt collectors, although intended to curb preda
 Using the staggered rollout of the Secure Communities program as shocks to undocumented labor supply, we show that the non-tradable and construction sectors in affected counties experienced higher wages, formal employment, and firm closures—indicating that firms previously relied on undocumented workers and subsequently substituted them with costlier formal labor. Small business-level data reveal that rising formal employment and closures were stronger among unbanked firms. Even among firms with banking relationships, those facing ex-ante weaker local bank monitoring exhibited stronger effects. Overall, these patterns suggest a deputization-like effect of bank screening and monitoring in deterring borrowers from employing undocumented workers.
 </div>
 </details>
-<div class=p2>Presentations: FMA Annual Meeting 2025 New Ideas Session, Asia-Pacific Corporate Finance Online Workshop.
+<div class=p2>Presentations: 2026 Bretton Woods Accounting and Finance Ski Conference, FMA Annual Meeting 2025 New Ideas Session, Asia-Pacific Corporate Finance Online Workshop.
 </div>
 <br>
 
