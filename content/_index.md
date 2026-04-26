@@ -46,23 +46,11 @@ Using the staggered rollout of the Secure Communities program as shocks to undoc
 </div>
 <br>
 
-### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>PFAS Contamination Discovery, Household Flight, and Consequences for Municipal Finance</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
-<p></p>
-<details open><summary>Abstract</summary>
-<div class=conference>
-Widely manufactured since the 1940s, hazardous per- and polyfluoroalkyl substances (PFAS) remained unregulated under U.S. water standards until 2024. Using a paired-county difference-in-differences design around the 2016 discovery of drinking water PFAS contamination following first-ever nationwide testing, we document that contaminated counties experienced adverse municipal and economic outcomes. Municipal bond offering yields rose, while municipal revenues, taxes, and expenditures declined. These resulted from increased within-state household outmigration, affecting tradable industries—raising wages, reducing job creation, and increasing firm closures—and ultimately raising overall unemployment. We highlight a novel household flight channel through which real shocks propagate to municipal bond markets.
-</div>
-</details>
-<div class=p2>Conference Presentations: AFA 2025, MFA 2025, North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
-<!--<br>* <i>scheduled</i>-->
-</div>
-<br>
-
 ### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [Job Market Paper]
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Seven U.S. states enhanced consumer access to credit reports during the 1990s—a policy extended nationwide by federal law in 2005. Leveraging this extension in a paired-county difference-in-differences design across state borders, I show that easier access to credit reports improved the mortgage applicant pool, as reflected in higher approval ratios and fewer defaults. Credit history-based rejections declined more than debt-to-income ratio-based rejections, contributing to higher approvals. In my theoretical model, the pool improves because credit reports enhance potential borrowers' self-assessment of creditworthiness, leading to fewer suboptimal application decisions. Overall, expanding consumer access to creditworthiness information facilitates sound financial decision-making.
+Seven U.S. states enhanced consumer access to credit reports during the 1990s—a policy extended nationwide by federal law in 2005. Leveraging this federal extension in a paired-county difference-in-differences design across state borders, I show that expanded access to credit reports improved the mortgage applicant pool, evident in higher approval ratios and fewer defaults. Credit history-based rejections declined more than debt-to-income-based rejections, increasing approvals and emphasizing credit reports as a key driver. Theoretically, enhanced access aligns borrowers’ beliefs with their true creditworthiness, improving their application decisions and pool quality. Overall, expanding consumer access to creditworthiness information facilitates sound financial decision-making.
 </div>
 </details>
 
@@ -73,6 +61,18 @@ Coverage: The World Bank's <a href = https://blogs.worldbank.org/allaboutfinance
 Doctoral Grant: Midwest Finance Association 2022.
 
 Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th Financial Markets and Corporate Governance Conference.
+</div>
+<br>
+
+### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>PFAS Contamination Discovery, Household Flight, and Consequences for Municipal Finance</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+<p></p>
+<details open><summary>Abstract</summary>
+<div class=conference>
+Widely manufactured since the 1940s, hazardous per- and polyfluoroalkyl substances (PFAS) remained unregulated under U.S. water standards until 2024. Using a paired-county difference-in-differences design around the 2016 discovery of drinking water PFAS contamination following first-ever nationwide testing, we document that contaminated counties experienced adverse municipal and economic outcomes. Municipal bond offering yields rose, while municipal revenues, taxes, and expenditures declined. These resulted from increased within-state household outmigration, affecting tradable industries—raising wages, reducing job creation, and increasing firm closures—and ultimately raising overall unemployment. We highlight a novel household flight channel through which real shocks propagate to municipal bond markets.
+</div>
+</details>
+<div class=p2>Conference Presentations: AFA 2025, MFA 2025, North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
+<!--<br>* <i>scheduled</i>-->
 </div>
 
 
