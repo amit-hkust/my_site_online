@@ -64,11 +64,11 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 </div>
 <br>
 
-### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>PFAS Contamination Discovery, Household Flight, and Consequences for Municipal Finance</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>Municipal Finance Consequences of PFAS Contamination Discovery</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Widely manufactured since the 1940s, hazardous per- and polyfluoroalkyl substances (PFAS) remained unregulated under U.S. water standards until 2024. Using a paired-county difference-in-differences design around the 2016 discovery of drinking water PFAS contamination following first-ever nationwide testing, we document that contaminated counties experienced adverse municipal and economic outcomes. Municipal bond offering yields rose, while municipal revenues, taxes, and expenditures declined. These resulted from increased within-state household outmigration, affecting tradable industries—raising wages, reducing job creation, and increasing firm closures—and ultimately raising overall unemployment. We highlight a novel household flight channel through which real shocks propagate to municipal bond markets.
+Widely manufactured since the 1940s, hazardous per- and polyfluoroalkyl substances (PFAS) remained unregulated under U.S. drinking water standards until 2024. Using a paired-county difference-in-differences design exploiting the 2016 discovery of drinking water PFAS contamination under the first nationwide systematic testing, we document deteriorating municipal finance outcomes in contaminated counties driven by household and firm responses. Municipal bond offering yields and credit risk increased, while revenues and expenditures declined. Within-state household out-migration increased, tradable-sector wages rose while tradable-sector employment and the number of firms declined, alongside rising county unemployment. Overall, discovery of past environmental contamination adversely affects municipal finance through deteriorating local economic outcomes.
 </div>
 </details>
 <div class=p2>Conference Presentations: AFA 2025, MFA 2025, North American Meeting of Urban Economics Association 2023, Australasian Finance & Banking Conference 2023, SMU Summer Finance Research Camp 2023.
