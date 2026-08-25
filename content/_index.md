@@ -7,7 +7,7 @@ I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Sin
 
 
 
-## Publications /  R&Rs 
+## R&Rs / Publications 
 ### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [Job Market Paper]
 <div class=p2>Revise & Resubmit, The Journal of Finance.</div>
 <p></p>
