@@ -8,18 +8,6 @@ I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Sin
 
 
 ## Publications /  R&Rs 
-### <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13366" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>[With </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://www.polyu.edu.hk/en/af/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
-<div class=p2>The Journal of Finance 79, no. 5 (2024): 3261-3307.</div>
-<p></p>
-<details open><summary>Abstract</summary>
-<div class=conference>
-We arranged for trained undercover men and women to pose as potential clients and visit all 65 local financial advisory firms in Hong Kong. At financial planning firms, but not at securities firms, women were more likely than men to receive advice to buy only individual or only local securities. Female clients who signaled that they were highly confident, highly risk tolerant or had a domestic outlook, were especially likely to receive this suboptimal advice. Our theoretical model explains these patterns as the result of statistical discrimination interacting with advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
-</div>
-</details>
-   
-<div class=p2>Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.</div>
-
-
 ### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [Job Market Paper]
 <div class=p2>Revise & Resubmit, The Journal of Finance.</div>
 <p></p>
@@ -38,6 +26,18 @@ Doctoral Grant: Midwest Finance Association 2022.
 Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th Financial Markets and Corporate Governance Conference.
 </div>
 <br>
+
+### <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13366" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>[With </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://www.polyu.edu.hk/en/af/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
+<div class=p2>The Journal of Finance 79, no. 5 (2024): 3261-3307.</div>
+<p></p>
+<details open><summary>Abstract</summary>
+<div class=conference>
+We arranged for trained undercover men and women to pose as potential clients and visit all 65 local financial advisory firms in Hong Kong. At financial planning firms, but not at securities firms, women were more likely than men to receive advice to buy only individual or only local securities. Female clients who signaled that they were highly confident, highly risk tolerant or had a domestic outlook, were especially likely to receive this suboptimal advice. Our theoretical model explains these patterns as the result of statistical discrimination interacting with advisors’ incentives. Taste-based discrimination is unlikely to explain the results.
+</div>
+</details>
+   
+<div class=p2>Coverage: <a href = https://www.bloomberg.com/news/articles/2020-09-05/financial-advisers-give-women-worse-advice-than-men-in-hong-kong target="_blank">Bloomberg</a>.</div>
+
 
 ## Working Papers
 ### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients?</span></a> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
