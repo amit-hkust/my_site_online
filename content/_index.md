@@ -47,7 +47,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 Tighter regulations on consumer debt collectors, although intended to curb predatory practices, may affect industries reliant on collectors for debt recovery. Using a paired-county stacked difference-in-differences design, we show that these regulations adversely affect hospitals. Specifically, receivables and allowances for uncollectible debt increase, whereas receivables-collateralized borrowing and profitability decline. Consequently, while patient volume remains unchanged, hospitals reduce medical labor and treatment capacity, including critical care beds and critical-care days per inpatient, mortality rises, and treatment mix shifts toward higher-charge procedures. Nonprofit hospitals reduce charity care for uninsured patients. Overall, consumer financial protection laws have implications for healthcare, a non-financial sector.
 </div>
 </details>
-<div class=p2>Presentations: NFA 2026*, MFA 2026, 2nd Annual Conference on the Economics and Finance of Healthcare and Medicine at WashU Olin Business School, University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa, University of Georgia, and Georgia Institute of Technology.
+<div class=p2>Presentations: NFA 2026*, MFA 2026, 2nd Annual Conference on the Economics and Finance of Healthcare and Medicine at WashU Olin Business School, CICF 2026, University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa, University of Georgia, and Georgia Institute of Technology.
 <br>* upcoming
 </div>
 <br>
