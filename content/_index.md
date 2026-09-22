@@ -28,7 +28,7 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 <br>
 
 ### <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13366" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>[With </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://www.polyu.edu.hk/en/af/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao]</span></a>
-<div class=p2>The Journal of Finance 79, no. 5 (2024): 3261-3307.</div>
+<div class=p2>The Journal of Finance 79, No. 5 (2024): 3261-3307.</div>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
