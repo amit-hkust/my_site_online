@@ -2,13 +2,13 @@
 author = "Amit Kumar"
 +++
 ## About Me
-I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School. I am reachable at amitkumar@smu.edu.sg . The link to my  webpage at university's website is here:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>.
+I am an Assistant Professor of Finance at Lee Kong Chian School of Business, Singapore Management University. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) Business School in 2022. I am on the 2026--2027 seasoned job market. I am reachable at amitkumar@smu.edu.sg . The link to my  webpage at university's website is here:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>.
 
 
 
 
 ## R&Rs / Publications 
-### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [Job Market Paper]
+### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [PhD Dissertation]
 <div class=p2>Revise & Resubmit, The Journal of Finance.</div>
 <p></p>
 <details open><summary>Abstract</summary>
@@ -40,7 +40,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients?</span></a> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
+### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients? [JMP]</span></a> <span class=author>[With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang]</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
