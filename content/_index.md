@@ -4,7 +4,8 @@ author = "Amit Kumar"
 ## About Me
 I am an Assistant Professor of Finance at Singapore Management University. I am on the 2026--2027 seasoned job market. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) in 2022. 
 
-[email: amitkumar@smu.edu.sg ] [official profile:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>]
+
+[<i class="fas fa-envelope"></i>: amitkumar@smu.edu.sg ] [official profile:<a href=https://business.smu.edu.sg/faculty/profile/6446/amit-kumar target="_blank">Link </a>]
 
 
 
