@@ -40,7 +40,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients? [JMP]</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
+### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients?</span></a>[JMP] <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
