@@ -27,7 +27,7 @@ Best Ph.D. Paper Awards: 15th Conference on Asia-Pacific Financial Markets. 11th
 </div>
 <br>
 
-### <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13366" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>--With </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://www.polyu.edu.hk/en/af/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao</span></a>
+### <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13366" target="_blank"><span class=titlelink>Do Women Receive Worse Financial Advice?</span></a> <span class=author>---with </span> <a href=https://ubhattac.people.ust.hk target=_blank><span class=author>Utpal Bhattacharya,</span></a> <a href=https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria target=_blank><span class=author>Sujata Visaria,</span></a> <span class=author> and </span><a href=https://www.polyu.edu.hk/en/af/people/academic-staff/dr-jing-zhao/ target=_blank><span class=author>Jing Zhao</span></a>
 <div class=p2>The Journal of Finance 79, No. 5 (2024): 3261-3307.</div>
 <p></p>
 <details open><summary>Abstract</summary>
@@ -40,7 +40,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients? [JMP]</span></a> <span class=author>--With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
+### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Debt Collection Restrictions Affect Hospitals and Patients? [JMP]</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
@@ -53,11 +53,11 @@ Although intended to curb predatory practices, tighter regulations on debt colle
 <br>
 
 
-### <span class=titlelink>Building the Pollution Moat: Strategic Emissions under The Clean Air Act [Draft Available Soon]</span><span class=author>--With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
+### <span class=titlelink>Building the Pollution Moat: Strategic Emissions under The Clean Air Act [Draft Available Soon]</span><span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
 <p></p>
 
 
-### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>--With </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
+### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
@@ -70,7 +70,7 @@ We exploit staggered immigration enforcement shocks to examine undocumented work
 
 
 
-### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>Municipal Finance Consequences of PFAS Contamination Discovery</span></a> <span class=author>[With </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang]</a></span>
+### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>Municipal Finance Consequences of PFAS Contamination Discovery</span></a> <span class=author>---with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang</a></span>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
