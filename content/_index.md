@@ -53,7 +53,7 @@ Although intended to curb predatory practices, tighter regulations on debt colle
 <br>
 
 
-### <span class=titlelink>Building the Pollution Moat: Strategic Emissions under The Clean Air Act [Draft Available Soon]</span><span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
+### <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act [Draft Available Soon]</span><span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
 <p></p>
 
 
