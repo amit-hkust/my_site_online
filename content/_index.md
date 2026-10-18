@@ -55,7 +55,11 @@ Although intended to curb predatory practices, tighter regulations on debt colle
 
 ### <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act [Draft Available Soon]</span><span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
 <p></p>
-
+<details open><summary>Abstract</summary>
+<div class=conference>
+Clean Air Act (CAA) nonattainment imposes substantially higher costs on entrants, inadvertently incentivizing incumbents to pollute more to raise entry barriers. Following the 1997 PM2.5 standards, firms near statutory threshold increased air emissions during the measurement period. The increase was stronger in PM2.5-intensive sectors and chemicals, near monitors, and in markets with high concentration and industry growth opportunities. The increase stemmed from multi-plant emission reallocation and within-plant shifts toward air emission, with total emissions unchanged. Nonattainment reduces plant openings while higher local emissions correlate with firm profits and valuations. Overall, firms may strategically pollute under CAA to gain market power. 
+</div>
+</details>
 
 ### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
 <p></p>
