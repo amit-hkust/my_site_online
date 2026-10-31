@@ -46,7 +46,6 @@ Although intended to protect consumers from predatory debt collection practices,
 </div>
 </details>
 <div class=p2>Presentations: NFA 2026, MFA 2026, 2nd Annual Conference on the Economics and Finance of Healthcare and Medicine at WashU Olin Business School, CICF 2026, University of Washington, Arizona State University, Georgetown University, Cornell University, Boston University, University of Iowa, University of Georgia, and Georgia Institute of Technology.
-<br>
 </div>
 <br>
 
@@ -58,6 +57,7 @@ Although intended to protect consumers from predatory debt collection practices,
 Higher costs for entrants than incumbents under Clean Air Act nonattainment may induce incumbents to increase pollution to deter entry and strengthen market power. Consistent with this, following the 1997 PM2.5 standards, near-nonattainment-threshold firms increased emissions relative to those slightly farther away during the statutory pre-nonattainment monitoring window. The increase was stronger at PM2.5-intensive and near-monitor plants, in concentrated markets, and in high industry-growth-opportunities counties. Mechanisms include cross-plant emission reallocation within multi-plant firms and within-plant shifts in emission media toward air, with aggregate emissions unchanged. Following nonattainment, plant openings decline, and local emissions correlate positively with firm profits and valuations. 
 </div>
 </details>
+<br>
 
 
 ### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
