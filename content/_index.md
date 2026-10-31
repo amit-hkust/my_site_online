@@ -52,7 +52,7 @@ Although intended to protect consumers from predatory debt collection practices,
 
 
 
-### <a href="files/HKK_PM25_abstract.pdf" target="_blank"> <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act</a></span> [Draft Available Soon] <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
+### <a href="files/HKK_PM25_abstract.pdf" target="_blank"> <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act</a></span> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
