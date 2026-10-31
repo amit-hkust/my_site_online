@@ -55,7 +55,7 @@ Although intended to protect consumers from predatory debt collection practices,
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Clean Air Act (CAA) nonattainment imposes substantially higher costs on entrants, inadvertently incentivizing incumbents to pollute more to raise entry barriers. Following the 1997 PM2.5 standards, firms near statutory threshold increased air emissions during the measurement period. The increase was stronger in PM2.5-intensive sectors and chemicals, near monitors, and in markets with high concentration and industry growth opportunities. The increase stemmed from multi-plant emission reallocation and within-plant shifts toward air emission, with total emissions unchanged. Nonattainment reduces plant openings while higher local emissions correlate with firm profits and valuations. Overall, firms may strategically pollute under CAA to gain market power. 
+Higher costs for entrants than incumbents under Clean Air Act nonattainment may induce incumbents to increase pollution to deter entry and strengthen market power. Consistent with this, following the 1997 PM2.5 standards, near-nonattainment-threshold firms increased emissions relative to those slightly farther away during the statutory pre-nonattainment monitoring window. The increase was stronger at PM2.5-intensive and near-monitor plants, in concentrated markets, and in high industry-growth-opportunities counties. Mechanisms include cross-plant emission reallocation within multi-plant firms and within-plant shifts in emission media toward air, with aggregate emissions unchanged. Plant openings decline following nonattainment, and local emissions correlate positively with firm profits and valuations. 
 </div>
 </details>
 
