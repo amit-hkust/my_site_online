@@ -4,10 +4,8 @@ author = "Amit Kumar"
 ## About Me
 I am an Assistant Professor of Finance at Singapore Management University. I am on the 2026--2027 seasoned job market. I completed my Ph.D. in Finance from The Hong Kong University of Science and Technology (HKUST) in 2022. 
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-  <div><i class="fas fa-envelope"></i> amitkumar@smu.edu.sg</div>
-  <div><i class="fas fa-envelope"></i> amit.ab87@gmail.com</div>
-</div>
+<i class="fas fa-envelope"  style="font-size: 0.85em;"></i> amitkumar@smu.edu.sg  <i class="fas fa-envelope"></i> amit.ab87@gmail.com
+
 
 ## R&Rs / Publications 
 ### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [PhD Dissertation]
