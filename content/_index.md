@@ -6,7 +6,7 @@ I am an Assistant Professor of Finance at Singapore Management University. I am 
 
 
 ## R&Rs / Publications 
-### <a href="https://papers.ssrn.com/abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [PhD Dissertation]
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732853" target="_blank"><span class=titlelink>Know Thyself: Consumers' Access to Credit Reports and The Retail Mortgage Market</span></a> [PhD Dissertation]
 <div class=p2>Revise & Resubmit, The Journal of Finance.</div>
 <p></p>
 <details open><summary>Abstract</summary>
@@ -38,7 +38,7 @@ We arranged for trained undercover men and women to pose as potential clients an
 
 
 ## Working Papers
-### <a href="https://papers.ssrn.com/abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Stricter Debt Collection Laws Affect Hospitals and Patients?</span></a>[JMP] <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5374274" target="_blank"> <span class=titlelink>How Do Stricter Debt Collection Laws Affect Hospitals and Patients?</span></a>[JMP] <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://discovery.nus.edu.sg/29498-lynn-linghuan-wang target=_blank><span class=author>Lynn Linghuan Wang</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
@@ -60,7 +60,7 @@ Clean Air Act nonattainment imposes higher costs on entrants than incumbents, wh
 <br>
 
 
-### <a href="http://ssrn.com/abstract=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378055" target="_blank"> <span class=titlelink>Employing Undocumented Workers? Immigration Enforcement Impacts on Small Businesses And The Role of Banking Relationships</span></a> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://tippie.uiowa.edu/people/jiajie-xu target=_blank><span class=author>Jiajie Xu</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
@@ -73,7 +73,7 @@ We exploit staggered immigration enforcement to examine undocumented-worker empl
 
 
 
-### <a href="https://papers.ssrn.com/abstract_id=3821639" target="_blank"><span class=titlelink>Municipal Finance Consequences of PFAS Contamination Discovery</span></a> <span class=author>---with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang</a></span>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821639" target="_blank"><span class=titlelink>Municipal Finance Consequences of PFAS Contamination Discovery</span></a> <span class=author>---with </span> <a href="https://www.ssrn.com/author=1464447" target="_blank"><span class=author>Daisy Huang</a></span>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
