@@ -50,11 +50,11 @@ Although intended to protect consumers from predatory debt collection practices,
 <br>
 
 
-### <a href="https://ssrn.com/abstract=7684518" target="_blank"> <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act</a></span> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
+### <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7684518" target="_blank"> <span class=titlelink>The Pollution Moat: Strategic Emissions under The Clean Air Act</a></span> <span class=author>---with </span><a href=https://www.huangchristine.com/ target=_blank><span class=author>Christine Zhuowei Huang </span></a><span class=author>and </span><a href=https://kumarmayank.com target=_blank><span class=author>Mayank Kumar</span></a>
 <p></p>
 <details open><summary>Abstract</summary>
 <div class=conference>
-Clean Air Act nonattainment imposes higher costs on entrants than incumbents, which may induce incumbents to strategically increase pollution to deter entry and strengthen market power. Consistent with this, during the 1997 PM2.5 standards' nonattainment-determination window, ex-ante near-nonattainment-threshold firms increased emissions relative to those slightly away. The increase was stronger at PM2.5-intensive and near-monitor plants, in concentrated markets, and in high industry-growth-opportunities counties. We identify two mechanisms: within-plant shifts in emission media toward air and cross-plant reallocation within multi-plant firms, without aggregate emissions increasing. Following nonattainment, plant openings decline, and local emissions correlate positively with firm profits and valuations.
+Clean Air Act nonattainment imposes higher costs on entrants than incumbents, which may induce incumbents to strategically increase pollution to deter entry and strengthen market power. Consistent with this, during the 1997 PM2.5 standards' nonattainment-determination window, ex-ante near-nonattainment-threshold firms increased emissions relative to those slightly away. The increase was stronger at PM2.5-intensive and near-monitor plants, and where incumbents had greater incentives to deter entry. We identify two mechanisms: within-plant shifts in emission media toward air and cross-plant reallocation within multi-plant firms, without aggregate emissions increasing. Following nonattainment, plant openings decline, and local emissions correlate positively with firm profits and valuations.
 </div>
 </details>
 <br>
